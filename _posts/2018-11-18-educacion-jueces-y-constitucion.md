@@ -13,4 +13,4 @@ presenters:
     - name: "Paca Hermosilla"
     - name: "Enrique Fuster"
 ---
-![cartel](/img/posts/pviñao.jpg)
+![cartel](/img/posts/pviñao.jpeg)
