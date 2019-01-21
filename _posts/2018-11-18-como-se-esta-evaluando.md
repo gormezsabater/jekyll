@@ -17,3 +17,4 @@ speakers:
 presenters:
     - name: "Raimundo Benzal"
 ---
+![cartel](/img/posts/mesaredonda.png
