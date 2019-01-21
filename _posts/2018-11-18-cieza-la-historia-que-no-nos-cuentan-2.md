@@ -12,4 +12,8 @@ speakers:
     - name: Colectivo Historia Social-Cieza
 ---
 
-Colabora AKELINZA.
+Colabora AKELINZA.  
+
+ENLACES  
+         https://www.facebook.com/HistoriaSocialCieza  
+         http://picdeer.com/colectivohistoria
