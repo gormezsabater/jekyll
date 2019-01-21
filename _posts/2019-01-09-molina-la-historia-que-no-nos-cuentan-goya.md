@@ -11,3 +11,7 @@ tags: "molina"
 speakers:
   - name: "Colectivo Historia Social Cieza"
 ---
+
+ENLACES  
+         https://www.facebook.com/HistoriaSocialCieza  
+         http://picdeer.com/colectivohistoria
