@@ -13,3 +13,8 @@ speakers:
 ---
 
 Colabora AKELINZA.
+
+ENLACES
+         https://www.facebook.com/HistoriaSocialCieza  
+         http://picdeer.com/colectivohistoria
+
