@@ -24,4 +24,5 @@ La economía, la política y la cultura occidental se ha desarrollado de espalda
 La mirada ecofeminista permite reflexionar poniendo en el centro lo que somos: una vida vulnerable que se sostiene en un planeta que tiene límites físicos. Reflexionar desde esta perspectiva permite profundizar los derechos y la protección de todo lo vivo.  
 
 El enlace a los libros de Yayo Herrero. www.todostuslibros.com/autor/herrero-yayo
+
 El enlace a su página de facebook. www.facebook.com/YayoHerreroL/
