@@ -9,5 +9,11 @@ placeMapsUrl: https://www.google.es/maps/place/Instituto+de+Educaci%C3%B3n+Secun
 category: "local"
 tags: "lorqui"
 speakers:
-    - name: "Cayetano Gutiérrrez"
+    - name: "Cayetano Gutiérrez"
 ---
+
+Cayetano Gutiérrez Pérez es Catedrático de Física y Química, y Divulgador Científico. Entre sus obras destacan: "Fisiquotidianía, la física de la vida cotidiana” (2007), “La actuación frente al cambio climático” (2009), y “Cambio climático, el gigante que amenaza la Tierra” (2018). Es miembro de la “Asociación Española de Comunicación Científica”. Más información: https://www.cayetanogutierrez.net/sobre-mi/  
+
+
+Para Talleres “Disfruta la Ciencia”, tanto de Primaria, como Secundaria:  
+Si alguien piensa que la ciencia es aburrida y monótona, comete un gran error. Por el contrario, la ciencia permite disfrutar y divertirse aprendiendo, desarrollar la imaginación y la creatividad, y proporcionar conocimientos y estrategias útiles para nuestra vida cotidiana. El proyecto “Disfruta la Ciencia” va dirigido a personas de cualquier edad y con cualquier tipo de formación académica, dada la versatilidad del mismo, que quieran adquirir una cultura científica de una forma grata y divertida, para ello intercala preguntas, curiosidades y experimentos de ciencia recreativa. Así que… ¡Disfruta la Ciencia! Más información: https://www.cayetanogutierrez.net
