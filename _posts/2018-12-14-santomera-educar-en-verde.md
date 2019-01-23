@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EEducar en verde: la naturaleza como ambiente de aprendizaje"
+title: "Educar en verde: la naturaleza como ambiente de aprendizaje"
 subtitle: "Conferencia"
 background: "/img/posts/bg-santomera.jpg"
 eventdate: 2019-02-20 20:00:00 +0100
