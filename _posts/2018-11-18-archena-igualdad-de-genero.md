@@ -11,3 +11,12 @@ placeMapsUrl: https://www.google.com/search?tbm=lcl&ei=CL4WXIqpJauJlwTjmoWADg&q=
 speakers:
     - name: Loola Perez.
 ---
+
+Biografía Loola Pérez  
+Loola Pérez (Molina de Segura, 1991). Graduada en Filosofía e Integradora Social. Es Presidenta de Mujeres Jóvenes de la Región de Murcia: 8 de marzo desde el año 2015. Fundadora y coordinadora del proyecto coeducativo Ni cuentos con perdices ni novelas rosas premiado recientemente por la Universidad Europea en los premios Jóvenes Emprendedores Sociales. En noviembre de 2018 ganó el 2º Premio de Ensayo de la Asociación Estatal de Sexología. Actualmente estudia Psicología y se encuentra finalizando el máster oficial de Sexología: educación sexual y asesoramiento sexológico en la Universidad Camilo José Cela de Madrid.  
+ 
+Contenidos de la mesa (propuesta)  
+La sexualidad es una dimensión humana que a día de hoy continúa siendo tratada como un tabú. Pese a la sobreexposición de contenido erótico y sexualmente explícito que rodea a la juventud, la educación afectivo-sexual continúa sin ser obligatoria en España. Pese a ello, surgen actividades puntuales, promovidas por instituciones, los centros educativos o las propias AMPAS para conocer y comprender los cambios corporales durante la pubertad, los métodos anticonceptivos, las enfermedades de transmisión sexual o la diversidad sexual con los más jóvenes. ¿Es esto suficiente? ¿Estamos ante una asignatura pendiente o ante una asignatura prohibida? ¿De qué hablamos cuando hablamos de educación afectivo-sexual? ¿Cuál es la situación legal? ¿Por qué educar para que los más jóvenes adquieran información y un desarrollo adecuado de la afectividad y la sexualidad sigue siendo una cuestión preocupante y llena de mitos?  
+ 
+Web Mujeres Jóvenes de la Región de Murcia: 8 de marzo
+-          https://www.mujomur.com/
