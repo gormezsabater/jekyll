@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Cómo se está evaluando? ¿Qué dice la ley y qué se hace? ¿Quién lo hace bien?"
-subtitle: "Mesa redonda"
+subtitle: "Mesa redonda, formada por: D. Raimundo de los Reyes García, Dña. Mariola Sanz y D. Carlos Nicolas"
 background: "/img/bg-about.jpg"
 eventdate: 2019-01-24 19:00:00 +0100
 placeName: "Hemiciclo de letras, Campus La Merced."
