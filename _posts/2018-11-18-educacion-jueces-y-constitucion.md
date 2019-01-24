@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Educación, Jueces y Constitución. ¿Una cuestión interpretativa o ideológica?"
-subtitle: "Conferencia inaugural"
+subtitle: "Conferencia inaugural a cargo del Cat. Hª de la Educación D. Antonio Viñao Frago"
 background: "/img/bg-index.jpg"
 eventdate: 2019-01-17 19:00:00 +0100
 placeName: "Paraninfo de la Universidad. Campus La Merced."
