@@ -11,3 +11,16 @@ tags: "jumilla"
 speakers:
     - name: Julia Martínez.
 ---
+
+Julia Martínez Fernández
+
+![cartel](/img/posts/juliajpeg.jpg)
+Julia Martínez Fernández  
+-Directora técnica de la Fundación Nueva Cultura del Agua.    
+-Doctora en biología, con 25 proyectos nacionales e internacionales de investigación, más de 150 publicaciones científicas sobre sistemas socio-ecológicos, indicadores de  sostenibilidad y gestión sostenible del agua.  
+-Miembro de Ecologistas en Acción.    
+-Vocal del Consejo del Agua de la Demarcación del Segura.    
+-Miembro del Bureau Europeo de Medio Ambiente.  
+-Junto a su investigación, participa en numerosas iniciativas de defensa del uso sostenible de los recursos hídricos y de una nueva cultura del agua.
+
+Julia es socia fundadora y miembro del grupo de 100 expertos firmantes de la “Declaración Europea por una Nueva Cultura del Agua” (2005) cuenta con una amplia trayectoria investigadora nacional e internacional en gestión integrada de recursos hídricos y sostenibilidad del agua desde perspectivas interdisciplinares. A su perfil científico se añade una temprana e intensa labor desde el movimiento ecologista y otros colectivos ciudadanos en la defensa de los valores ambientales y patrimoniales, la sostenibilidad y la nueva cultura del agua.
