@@ -13,6 +13,6 @@ presenters:
     - name: "Paca Hermosilla"
     - name: "Enrique Fuster"
 ---
-https://tv.um.es/canal?cod=a1b1c2d08&serie=23371
+Visionado en:   https://tv.um.es/canal?cod=a1b1c2d08&serie=23371
 ![cartel](/img/posts/pviñao.jpeg)
 
