@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cambio climático: Agua y educación. Dimensión educativa de la nueva cultura del agua"
-subtitle: "Conferencia"
+subtitle: "Conferencia.- Julia Martínez Fernández"
 background: "/img/posts/bg-cartagena.jpg"
 eventdate: 2019-02-20 19:00:00 +0100
 placeName: "Escuela Técnica Superior de Arquitectura y Edificación, Cartagena."
@@ -13,6 +13,8 @@ speakers:
 ---
 
 
+Julia Martínez Fernández  
+![cartel](/img/posts/juliajpeg.jpeg)
 Julia Martínez Fernández  
 -Directora técnica de la Fundación Nueva Cultura del Agua.    
 -Doctora en biología, con 25 proyectos nacionales e internacionales de investigación, más de 150 publicaciones científicas sobre sistemas socio-ecológicos, indicadores de  sostenibilidad y gestión sostenible del agua.  
