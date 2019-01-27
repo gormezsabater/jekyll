@@ -14,6 +14,6 @@ presenters:
     - name: "José Luis López Lillo"
 ---
 FRANCISCO JARAUTA
-![cartel](/img/posts/pacojarautajpeg.jpeg)
+![cartel](/img/posts/pacojarautajpeg.jpg)
 
 Francisco Jarauta (Zaragoza1, 1941). Es catedrático de Filosofía de la Universidad de Murcia. Doctor en Filosofía, Antropología e Historia del arte, ha impartido clases en varias universidades europeas y americanas.
