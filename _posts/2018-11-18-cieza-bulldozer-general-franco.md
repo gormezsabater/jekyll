@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El Bulldozer del General Franco"
-subtitle: "Conferencia"
+subtitle: "Conferencia.- Fernando Hernández"
 background: "/img/posts/bg-cieza.jpg"
 eventdate: 2019-02-08 20:00:00 +0100
 category: "local"
@@ -11,3 +11,6 @@ placeMapsUrl: https://www.google.es/maps/place/Club+Atalaya+Ateneo/@38.2411942,-
 speakers:
     - name: Fernando Hernández
 ---
+
+![cartel](/img/posts/fernandohernandezjpeg.jpeg)
+Fernando Hernández Sánchez (n. 1961) es un historiador español, especializado en el estudio de la Guerra Civil española y el Partido Comunista de España y profesor de la Universidad Autónoma de Madrid.
