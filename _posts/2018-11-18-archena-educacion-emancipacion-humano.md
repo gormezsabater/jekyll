@@ -11,5 +11,5 @@ placeMapsUrl: https://www.google.com/search?tbm=lcl&ei=CL4WXIqpJauJlwTjmoWADg&q=
 speakers:
     - name: Jaume Martínez Bonafé.
 ---
-
+![cartel](/img/posts/bonafe1png.png)
 Actividad para profesores. AMPAS y abierto a quienes soliciten asistir.
