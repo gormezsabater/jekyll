@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ecofeminismo: El planeta no es vuestro, nuestros cuerpos tampoco"
-subtitle: "Conferencia"
+subtitle: "Conferencia.- Yayo Herrero"
 background: "/img/bg-index.jpg"
 eventdate: 2019-03-05 19:00:00 +0100
 placeName: "Paraninfo Campus La Merced."
@@ -12,7 +12,7 @@ speakers:
 presenters:
     - name: "Ana García"
 ---
-
+![cartel](/img/posts/yayoherreropng.png)
 CV  
 
 Antropóloga, Educadora Social, Ingeniera Técnica Agrícola, DEA en Ciencias de la Educación; portavoz del Foro de Transiciones; profesora-colaboradora de la Cátedra Unesco de Educación Ambiental (UNED); Directora General de FUHEM entre 2012 y 2018; Coordinadora del CCEIM de la Fundación General Universidad Complutense de Madrid entre 2009 y 20012; coautora de más de una veintena de de libros relacionados con la ecología social.
