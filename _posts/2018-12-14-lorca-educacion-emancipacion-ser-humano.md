@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Una Educación para la emancipación delser humano: 5 condiciones"
-subtitle: "Conferencia"
+subtitle: "Conferencia.- Jaume Martínez Bonafé"
 background: "/img/posts/bg-lorca.jpg"
 eventdate: 2019-02-12 19:30:00 +0100
 placeName: "Salón de Actos del IES Ramón Arcas"
@@ -11,3 +11,4 @@ tags: "lorca"
 speakers:
     - name: Jaume Martínez Bonafé.
 ---
+![cartel](/img/posts/jaumepng.png)
