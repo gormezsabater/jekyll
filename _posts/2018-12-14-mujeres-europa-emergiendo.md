@@ -12,5 +12,5 @@ speakers:
 presenters:
     - name: "Anna Mellado"
 ---
-![cartel](/img/posts/lidiafalconjpeg.jpeg)
+![cartel](/img/posts/lidiafalconjpeg.jpg)
 "O el feminismo participa en el poder y llega a los órganos desde los que se gobierna, o seguiremos con una pancarta en la calle durante 40 años más"
