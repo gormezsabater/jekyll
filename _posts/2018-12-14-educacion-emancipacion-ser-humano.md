@@ -13,4 +13,4 @@ presenters:
     - name: "Mariano de Pedro"
 ---
 
-![cartel](/img/posts/jaumepng.png)
+![cartel](/img/posts/bonafepng.png)
