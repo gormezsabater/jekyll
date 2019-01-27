@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mujeres y la Europa que está emergiendo"
-subtitle: "Conferencia"
+subtitle: "Conferencia.- Lidia Falcón"
 background: "/img/bg-index.jpg"
 eventdate: 2019-03-07 19:00:00 +0100
 placeName: "Paraninfo Campus La Merced."
@@ -12,3 +12,5 @@ speakers:
 presenters:
     - name: "Anna Mellado"
 ---
+![cartel](/img/posts/lidiafalconjpeg.jpeg)
+"O el feminismo participa en el poder y llega a los órganos desde los que se gobierna, o seguiremos con una pancarta en la calle durante 40 años más"
