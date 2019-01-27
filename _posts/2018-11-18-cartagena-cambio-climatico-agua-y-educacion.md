@@ -14,7 +14,7 @@ speakers:
 
 
 Julia Martínez Fernández  
-![cartel](/img/posts/juliajpeg.jpeg)
+![cartel](/img/posts/juliajpeg.jpg)
 Julia Martínez Fernández  
 -Directora técnica de la Fundación Nueva Cultura del Agua.    
 -Doctora en biología, con 25 proyectos nacionales e internacionales de investigación, más de 150 publicaciones científicas sobre sistemas socio-ecológicos, indicadores de  sostenibilidad y gestión sostenible del agua.  
