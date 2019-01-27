@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Educar en verde: la naturaleza como ambiente de aprendizaje"
-subtitle: "Conferencia"
+subtitle: "Conferencia.- Heike Freire"
 background: "/img/posts/bg-santomera.jpg"
 eventdate: 2019-02-20 20:00:00 +0100
 placeName: "Salón de actos del Ayuntamiento"
@@ -11,3 +11,4 @@ tags: "santomera"
 speakers:
     - name: Heike Freire.
 ---
+![cartel](/img/posts/heikefreirepng.png)
