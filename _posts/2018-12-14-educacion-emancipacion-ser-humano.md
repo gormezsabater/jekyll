@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Una Educación para la emancipación del ser humano: 5 condiciones"
-subtitle: "Conferencia"
+subtitle: "Conferencia.- Jaume Martínez Bonafé"
 background: "/img/bg-index.jpg"
 eventdate: 2019-01-31 19:00:00 +0100
 placeName: "Hemiciclo de letras, Campus La Merced."
@@ -12,3 +12,5 @@ speakers:
 presenters:
     - name: "Mariano de Pedro"
 ---
+
+![cartel](/img/posts/jaumepng.png)
