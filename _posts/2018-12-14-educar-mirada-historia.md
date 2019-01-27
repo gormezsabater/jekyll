@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Educar la Mirada sobre la Historia"
-subtitle: "Conferencia"
+subtitle: "Conferencia.- Paco Jarauta  
+Filósofo. Prof. Universidad de Murcia"
 background: "/img/bg-index.jpg"
 eventdate: 2019-03-15 19:00:00 +0100
 placeName: "Hemiciclo de letras. Campus La Merced."
@@ -12,3 +13,7 @@ speakers:
 presenters:
     - name: "José Luis López Lillo"
 ---
+FRANCISCO JARAUTA
+![cartel](/img/posts/pacojarautajpeg.jpeg)
+
+Francisco Jarauta (Zaragoza1, 1941). Es catedrático de Filosofía de la Universidad de Murcia. Doctor en Filosofía, Antropología e Historia del arte, ha impartido clases en varias universidades europeas y americanas.
