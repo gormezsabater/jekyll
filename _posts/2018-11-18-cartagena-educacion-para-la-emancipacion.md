@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Una educación para la emancipación del ser humano."
-subtitle: "Conferencia"
+subtitle: "Conferencia.- Jaume Martínez Bonafé"
 background: "/img/posts/bg-cartagena.jpg"
 eventdate: 2019-01-30 19:00:00 +0100
 placeName: "Escuela Técnica Superior de Arquitectura y Edificación, Cartagena."
@@ -11,3 +11,5 @@ tags: "cartagena"
 speakers:
     - name: "Jaume Martínez Bonafé"
 ---
+
+![cartel](/img/posts/jaumepng.png)
