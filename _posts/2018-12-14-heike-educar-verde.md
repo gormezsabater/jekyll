@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Educar en verde: la naturaleza como ambiente de aprendizaje"
-subtitle: "Conferencia"
+subtitle: "Conferencia.- Heike Freire"
 background: "/img/bg-index.jpg"
 eventdate: 2019-02-21 19:00:00 +0100
 placeName: "Hemiciclo de letras, Campus La Merced"
@@ -12,3 +12,4 @@ speakers:
 presenters:
     - name: "Ana Fructuoso Ros"
 ---
+![cartel](/img/posts/heikefreirepng.png)
