@@ -16,5 +16,5 @@ coordinators:
       bio: "Profesor Didáctica de la CC.SS. Fac. de Educación"
 ---
 
-![cartel](/img/posts/fernandohernandezjpeg.jpeg)
+![cartel](/img/posts/fernandohernandezjpeg.jpg)
 Fernando Hernández Sánchez (n. 1961) es un historiador español, especializado en el estudio de la Guerra Civil española y el Partido Comunista de España y profesor de la Universidad Autónoma de Madrid.1
