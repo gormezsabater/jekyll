@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La historia que no nos cuentan. De la reivindicación del pasado a la pedagogía del futuro"
-subtitle: "Conferencia"
+subtitle: "Conferencia.- Fernando Hernández"
 background: "/img/bg-index.jpg"
 eventdate: 2019-02-06 17:45:00 +0100
 placeName: "Salón de grados, Facultad de Educación: UMU."
@@ -15,3 +15,6 @@ coordinators:
     - name: "Pedro Miralles Martínez"
       bio: "Profesor Didáctica de la CC.SS. Fac. de Educación"
 ---
+
+![cartel](/img/posts/fernandohernandezjpeg.jpeg)
+Fernando Hernández Sánchez (n. 1961) es un historiador español, especializado en el estudio de la Guerra Civil española y el Partido Comunista de España y profesor de la Universidad Autónoma de Madrid.1
