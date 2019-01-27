@@ -11,3 +11,5 @@ tags: "lorqui"
 speakers:
     - name: "Salvador Martínez Pérez"
 ---
+
+![cartel](/img/posts/salvadorlorqui.jpeg)
