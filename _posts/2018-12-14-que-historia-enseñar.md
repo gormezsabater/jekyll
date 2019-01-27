@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "¿Qué historia enseñar en el S.XXI?"
-subtitle: "Conferencia"
+subtitle: "Conferencia.- Fernando Hernádez Sánchez"
 background: "/img/bg-index.jpg"
 eventdate: 2019-02-07 19:00:00 +0100
 placeName: "Hemiciclo de letras, Campus La Merced"
@@ -13,3 +13,6 @@ presenters:
     - name: "Ana M.a Valencia"
       bio: "Colectivo de Historia Social-Cieza"
 ---
+
+Fernando Hernandez Sánchez
+![cartel](/img/posts/fernandohernandezpeg.jpg)
