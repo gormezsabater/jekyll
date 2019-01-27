@@ -11,4 +11,4 @@ tags: "lorca"
 speakers:
     - name: Jaume Martínez Bonafé.
 ---
-![cartel](/img/posts/jaumepng.png)
+![cartel](/img/posts/bonafe1png.png)
