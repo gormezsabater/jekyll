@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Educar en verde: la naturaleza como ambiente de aprendizaje"
-subtitle: "Conferencia"
+subtitle: "Conferencia.- Heike Freire"
 background: "/img/posts/bg-alhama.jpg"
 eventdate: 2019-02-19 19:00:00 +0100
 placeName: "Casa de la Cultura, Alhama de Murcia."
