@@ -113,9 +113,9 @@ Alternativas: IES la Flota y Saavedra (Arte)
 
 La propuesta de esta última sesión de experiencias es lúdico práctica.-  Se trata de mostrar unas experiencias a la vez que se contempla  el trabajo del alumnado (p.e.:  Teatro, música) o se trabaja con los asistentes (artística).
 
-* **11:00 a 11:30:**	Preiodo de descanso y café
+* **11:00 a 11:30:**	Periodo de descanso y café
 
 
-* **11:30 a 13:00:** Puesta en común coordinada por Paca Hermosilla.
+* **11:30 a 13:00:** Puesta en común.
 
 <iframe id="signInForm" src="https://docs.google.com/forms/d/e/1FAIpQLSdPeF1Twsz0ttcbA1xQIr8CtBCqLPrjTIbib2RIIl3XdqYyFA/viewform" width="640" height="1666" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
