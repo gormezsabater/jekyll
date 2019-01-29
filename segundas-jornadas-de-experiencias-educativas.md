@@ -9,7 +9,7 @@ background: '/img/bg-index.jpg'
 
 #### [PULSA PARA ACCEDER AL FORMULARIO DE INSCRIPCIÓN DEL CPR](http://servicios.educarm.es/admin/apps/actividadesFormacion/ficheros/convocatorias/a0f1fec871ceb7c3b7789dfed34cb423.pdf)  
   
-***[PULSA AQUÍ PARA SOLICITAR  SERVICIO DE GUARDERÍA O RELLENA EL FORMULARIO AL FINAL DE ESTA PÁGINA](#signInForm)***
+***[PULSA AQUÍ PARA DEJARNOS TUS DATOS.  TAMBIÉN PUEDES SOLICITAR  SERVICIO DE GUARDERÍA O RELLENA EL FORMULARIO AL FINAL DE ESTA PÁGINA](#signInForm)***
 
 En estas Jornadas pretendemos mostrar y analizar experiencias educativas que se desarrollan en centros públicos (CEIP e IES), con problemáticas similares o incluso más complejas que cualquier centro de nuestra Comunidad (población escolar, dotación de personal similar, concurso de traslados…).
 
