@@ -7,9 +7,10 @@ background: '/img/bg-index.jpg'
 
 #### 22 y 23 de febrero de 2019. [Centro Integrado de Formación y  Experiencias Agrarias (CIFEA) de Molina de Segura.](https://www.google.es/maps/place/CIFEA/@38.0602896,-1.210067,17z/data=!3m1!4b1!4m5!3m4!1s0xd63875521f8262b:0x77735b81ea26418f!8m2!3d38.0602896!4d-1.210067?hl=en)
 
-#### [PULSA PARA ACCEDER AL FORMULARIO DE INSCRIPCIÓN DEL CPR]https://cpreval.murciaeduca.es/formacion/actividades/convocatorias.html?id=081719 
+#### [PULSA PARA ACCEDER AL FORMULARIO DE INSCRIPCIÓN DEL CPR](https://cpreval.murciaeduca.es/formacion/actividades/convocatorias.html?id=081719)
   
-***[PULSA AQUÍ PARA DEJARNOS TUS DATOS.  TAMBIÉN PUEDES SOLICITAR  SERVICIO DE GUARDERÍA O RELLENA EL FORMULARIO AL FINAL DE ESTA PÁGINA](#signInForm)***
+***[PULSA AQUÍ PARA DEJARNOS TUS DATOS.  
+TAMBIÉN PUEDES SOLICITAR  SERVICIO DE GUARDERÍA O RELLENA EL FORMULARIO AL FINAL DE ESTA PÁGINA](#signInForm)***
 
 En estas Jornadas pretendemos mostrar y analizar experiencias educativas que se desarrollan en centros públicos (CEIP e IES), con problemáticas similares o incluso más complejas que cualquier centro de nuestra Comunidad (población escolar, dotación de personal similar, concurso de traslados…).
 
