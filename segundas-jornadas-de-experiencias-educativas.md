@@ -7,7 +7,7 @@ background: '/img/bg-index.jpg'
 
 #### 22 y 23 de febrero de 2019. [Centro Integrado de Formación y  Experiencias Agrarias (CIFEA) de Molina de Segura.](https://www.google.es/maps/place/CIFEA/@38.0602896,-1.210067,17z/data=!3m1!4b1!4m5!3m4!1s0xd63875521f8262b:0x77735b81ea26418f!8m2!3d38.0602896!4d-1.210067?hl=en)
 
-***[PULSA PARA ACCEDER AL FORMULARIO DE INSCRIPCIÓN DEL CPR]***(http://servicios.educarm.es/admin/apps/actividadesFormacion/ficheros/convocatorias/a0f1fec871ceb7c3b7789dfed34cb423.pdf)  
+#### [PULSA PARA ACCEDER AL FORMULARIO DE INSCRIPCIÓN DEL CPR](http://servicios.educarm.es/admin/apps/actividadesFormacion/ficheros/convocatorias/a0f1fec871ceb7c3b7789dfed34cb423.pdf)  
   
 ***[PULSA AQUÍ PARA SOLICITAR  SERVICIO DE GUARDERÍA O RELLENA EL FORMULARIO AL FINAL DE ESTA PÁGINA](#signInForm)***
 
