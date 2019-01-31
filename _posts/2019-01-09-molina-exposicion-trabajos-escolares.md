@@ -14,5 +14,5 @@ Del 6 al 15 de febrero.
 
 ---
 
-![cartel](img/posts/1folletomolina.png)
-![cartel](img/posts/2folletomolina.png)
+![cartel](/img/posts/1folletomolina.png)
+![cartel](/img/posts/2folletomolina.png)
