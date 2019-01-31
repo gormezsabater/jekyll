@@ -14,5 +14,5 @@ Del 6 al 15 de febrero.
 
 ---
 
-![cartel](img/posts/1ª HOJA PUBLICACIÓN MOLINA 19.png)
-![cartel](img/posts/2º hoja publicación molina 19.png)
+![cartel](img/posts/1folletomolina.png)
+![cartel](img/posts/2folletomolina.png)
