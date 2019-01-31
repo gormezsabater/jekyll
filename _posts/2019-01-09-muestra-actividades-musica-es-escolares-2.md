@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "II Muestra de actividades musicales escolares"
-subtitle: "Exposición"
+subtitle: "Canto, música y danza"
 background: "/img/posts/bg-molina.jpg"
 eventdate: 2019-02-26 11:00:00 +0100
 placeName: "Teatro Villa de Molina"
@@ -9,5 +9,8 @@ placeMapsUrl: https://www.google.es/maps/place/Teatro+Villa+de+Molina/@38.060289
 category: "local"
 tags: "molina"
 coordinators:
-  - name: "Marcos Fernández"
+  - name: "Marcos Martínez Fernández"
 ---
+
+![cartel](/img/posts/1folletomolina.png)
+![cartel](/img/posts/2folletomolina.png)
