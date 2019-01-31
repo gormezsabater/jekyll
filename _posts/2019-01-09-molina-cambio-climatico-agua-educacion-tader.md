@@ -11,6 +11,7 @@ tags: "molina"
 speakers:
   - name: "Julia Martínez Fernández"
 ---
+![cartel](/img/posts/juliajpg.jpg)  
 
 Julia Martínez Fernández  
 -Directora técnica de la Fundación Nueva Cultura del Agua.    
