@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "III Edición de Molina por las Artes: Plástica, teatro, música, danza"
-subtitle: "Exposición"
+title: "IV Edición de Molina por las Artes: Plástica, teatro, música, danza"
+subtitle: "Sesión inaugural V JORNADAS UNA EDUCACIÓN PARA EL SIGLO XXI.- MOLINA DE SEGURA"
 background: "/img/posts/bg-molina.jpg"
 eventdate: 2019-02-05 19:00:00 +0100
 placeName: "Teatro Villa de Molina."
@@ -10,3 +10,6 @@ category: "local"
 tags: "molina"
 ---
 
+
+![cartel](/img/posts/1folletomolina.png)
+![cartel](/img/posts/2folletomolina.png)
