@@ -11,3 +11,6 @@ tags: "molina"
 speakers:
   - name: "Emilio Ballester"
 ---
+
+![cartel](/img/posts/1folletomolina.png)
+![cartel](/img/posts/2folletomolina.png)
