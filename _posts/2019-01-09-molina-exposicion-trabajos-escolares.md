@@ -12,3 +12,7 @@ tags: "molina"
 
 Del 6 al 15 de febrero.
 
+---
+
+![cartel](/img/1ª HOJA PUBLICACIÓN MOLINA 19.png)
+![cartel](/img/2º hoja publicación molina 19.png)
