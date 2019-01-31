@@ -125,4 +125,4 @@ La propuesta de esta última sesión de experiencias es lúdico práctica.-  Se 
 
 ---
 
-
+![cartel](/img/posts/pviñao.jpeg)
