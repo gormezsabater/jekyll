@@ -11,3 +11,6 @@ tags: "molina"
 speakers:
   - name: "Diego José Martínez Cerón"
 ---
+
+![cartel](/img/posts/1folletomolina.png)
+![cartel](/img/posts/2folletomolina.png)
