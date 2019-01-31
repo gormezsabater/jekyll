@@ -11,3 +11,7 @@ tags: "molina"
 speakers:
   - name: "D. Francisco Jorquera."
 ---
+
+
+![cartel](/img/posts/1folletomolina.png)
+![cartel](/img/posts/2folletomolina.png)
