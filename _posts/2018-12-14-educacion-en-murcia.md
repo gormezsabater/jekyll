@@ -12,6 +12,7 @@ speakers:
 presenters:
     - name: "Antonio Sánchez"
 ---
-![cartel](/img/posts/ginespng.png)
-Maestro
+![cartel](/img/posts/ginespng.png)  
+Maestro  
 
+![cartel](/img/posts/gines.png)
