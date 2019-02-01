@@ -11,3 +11,9 @@ placeMapsUrl: https://www.google.es/maps/place/Instituto+de+Educacion+Secundaria
 speakers:
     - name: Cayetano Gutiérrez Pérez
 ---
+![cartel](/img/posts/cayetanojpg.jpg)  
+
+Cayetano Gutiérrez Pérez es Catedrático de Física y Química, y Divulgador Científico. Entre sus obras destacan: "Fisiquotidianía, la física de la vida cotidiana” (2007), “La actuación frente al cambio climático” (2009), y “Cambio climático, el gigante que amenaza la Tierra” (2018). Es miembro de la “Asociación Española de Comunicación Científica”. Más información: https://www.cayetanogutierrez.net/sobre-mi/  
+
+
+El Cambio Climático consiste en un aumento de los fenómenos meteorológicos, tales como, olas de calor, olas de frío, lluvias torrenciales, inundaciones, huracanes…, tanto en intensidad (es decir, cada vez son más fuertes), como en la frecuencia (es decir, cada vez se repiten más veces), afectando muy especialmente a los países más pobres. Recordemos que “No vive mejor el que más tiene, sino el que menos necesita”. Debemos salir de nuestra zona de confort, y exigir a sus representantes políticos que actúen urgentemente y con medidas eficaces, para frenar ese cataclismo ambiental llamado Cambio Climático, al margen de la gran cantidad de medidas individuales que como ciudadan@s podemos llevar a cabo. Más información: https://www.cayetanogutierrez.net.  
