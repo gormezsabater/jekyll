@@ -166,6 +166,8 @@ presenters:
 
 Si por algún motivo no hay speakers o presentadores puedes borrar estas partes del fichero.
 
+# Contenido con formato especial
+
 El resto del fichero contiene la información que se mostrará en la página de detalle de la actividad. **Esta parte del fichero está escrita utilizando un lenguaje llamado markdown que nos permite añadir imágenes negritas y enlaces tal y como te indico a continuación**:
 
 ```markdown
