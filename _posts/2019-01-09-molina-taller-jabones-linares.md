@@ -11,10 +11,11 @@ tags: "molina"
 speakers:
   - name: "Diego Martínez Cerón"
 ---
+
 ![cartel](/img/posts/jabones.jpg)  
 
+Diego Martínez Cerón
 
-DIEGO MARTÍNEZ CERÓN.  
 Maestro de profesión.  Actualmente ejerzo dando clases de refuerzo educativo en los institutos de bachillerato de Alhama de Murcia -1º a 4º de ESO- y clases de español para extranjeros en la concejalía de servicios sociales de Alhama de Murcia.  
 Desde 2008 me dedico a la elaboración tradicional de jabón utilizando procedimientos artesanales. Realizo talleres y cursos para entidades, asociaciones y centros de enseñanza.  
 Dispongo de punto de venta en la plaza de abastos de Alhama de Murcia y en distintos mercadillos artesanales de toda España.  
@@ -24,40 +25,52 @@ Objetivos:
 2)	Conocer qué es el jabón, cómo y porqué limpia.
 3)	Aprender a hacer jabón  de glicerina/aceite.
 
-Fechas: Instituto Eduardo Linares: 15-02-2019; Molina de Segura.
-	Instituto Cañada de las Heras: 22-02-2019; Molina de Segura.
+Fechas: 
+
+Instituto Eduardo Linares: 15-02-2019; Molina de Segura.
+	
+Instituto Cañada de las Heras: 22-02-2019; Molina de Segura.
+
 Duración: 1:30H. aprox.
 
-PROGRAMA.-
+PROGRAMA.
+
 1.- ORIGEN DEL JABÓN: Historia y Leyendas.
+
 2.- PROBLEMÁTICA  AMBIENTAL DEL ACEITE USADO.  ALTERNATIVAS
+
 3.- QUÉ ES EL JABÓN. Por qué limpia. 
 	3a.- QUÉ ES LA GLICERINA.-
+
 4,- PROCEDIMIENTO PARA LA ELABORACIÓN DE JABÓN DE GLICERINA
 •	INGREDIENTES.-
 •	MATERIALES.- Los utensilios necesarios.
 •	PROCEDIMIENTO.-
+
 5.- ELABORACIÓN POR LOS ASISTENTES DE VARIAS RECETAS DE JABÓN.
+
 El programa lo dividimos en dos partes. 
 Una primera de aproximadamente10-15 minutos en la que explicamos lo que vamos a hacer y los conceptos básicos para elaborar jabón de glicerina..
 Una segunda parte en la que hacemos varios grupos entre los asistentes y cada grupo elabora su jabón.
+
 Material necesario:
--vasijas de plástico para fundir la glicerina, tipo taper.
--Microondas
--lengua de gato o similar de plástico para mezclar.
--colorantes (en su caso), fragancias, Olores etc.
--moldes
-Cuentagotas, 
--Desmoldante
--Brocha
--Alcohol 60º o rebajado con agua.
--guantes
--Glicerina
+- Vasijas de plástico para fundir la glicerina, tipo taper.
+- Microondas
+- Lengua de gato o similar de plástico para mezclar.
+- Colorantes (en su caso), fragancias, Olores etc.
+- Moldes
+- Cuentagotas, 
+- Desmoldante
+- Brocha
+- Alcohol 60º o rebajado con agua.
+- Guantes
+- Glicerina
 
 Condiciones del Local:
+
 Aula que disponga de enchufe para microondas.
 Mesas y mantel para evitar manchas, aunque la glicerina no mancha y es fácil de limpiar.
 
-
 ![cartel](/img/posts/1folletomolina.png)
 ![cartel](/img/posts/2folletomolina.png)
+

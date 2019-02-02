@@ -12,6 +12,7 @@ speakers:
   - name: "Colectivo Historia Social Cieza"
 ---
 
-ENLACES  
-         https://www.facebook.com/HistoriaSocialCieza  
-         http://picdeer.com/colectivohistoria
+*Enlaces de interés*
+
+[Historia Social Cieza](https://www.facebook.com/HistoriaSocialCieza)
+[Colectivos Historia](http://picdeer.com/colectivohistoria)

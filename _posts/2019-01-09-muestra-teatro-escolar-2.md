@@ -12,8 +12,7 @@ coordinators:
   - name: "Fernando de Arce"
 ---
 
-Del 28 de marzo al 11 de abril.-
-
+Del 28 de marzo al 11 de abril.
 
 ![cartel](/img/posts/1folletomolina.png)
 ![cartel](/img/posts/2folletomolina.png)
