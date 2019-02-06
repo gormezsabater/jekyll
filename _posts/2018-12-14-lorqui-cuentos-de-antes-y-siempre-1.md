@@ -11,3 +11,5 @@ tags: "lorqui"
 speakers:
     - name: "Alonso Palacios"
 ---
+
+![cartel](/img/posts/alonsolorquíjpg.jpg)
