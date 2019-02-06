@@ -8,8 +8,7 @@ placeName: "Cine Club Odeón"
 
 category: "local"
 tags: "yecla"
-presenters:
-    - name: La Chana Teatro.
+
 ---
 
 ![cartel](/img/posts/amanecequejpg.jpg)
