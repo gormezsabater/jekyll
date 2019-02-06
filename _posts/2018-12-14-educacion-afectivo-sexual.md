@@ -11,5 +11,5 @@ speakers:
     - name: "Isabel Guerrero"
     - name: "Loola Pérez"
 presenters:
-    - name: "Ana Fructuoso Ros"
+    - name: "Juana Navarro"
 ---
