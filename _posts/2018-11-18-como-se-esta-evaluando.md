@@ -17,6 +17,6 @@ speakers:
 presenters:
     - name: "Raimundo Benzal"
 ---
-Visionado de la mesa redonda:  (https://tv.um.es/canal?cod=a1b1&serie=23531)
+Visionado de la mesa redonda:[https://tv.um.es/canal?cod=a1b1&serie=23531] (https://tv.um.es/canal?cod=a1b1&serie=23531)
 
 ![cartel](/img/posts/mesaredonda.png)
