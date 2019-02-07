@@ -12,6 +12,6 @@ speakers:
 presenters:
     - name: "Mariano de Pedro"
 ---
-Visionado de la conferencia: [https://tv.um.es/canal?cod=a1b1&serie=23521] (https://tv.um.es/canal?cod=a1b1&serie=23521)
+Visionado de la conferencia [aquí: https://tv.um.es/canal?cod=a1b1&serie=23521] (https://tv.um.es/canal?cod=a1b1&serie=23521)
 
 ![cartel](/img/posts/bonafe1png.png)
