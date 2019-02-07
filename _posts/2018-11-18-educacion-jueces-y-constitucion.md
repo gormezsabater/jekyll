@@ -13,7 +13,7 @@ presenters:
     - name: "Paca Hermosilla"
     - name: "Enrique Fuster"
 ---
- El visionado de la conferencia esta [aquí: https://tv.um.es/canal?cod=a1b1c2d08&serie=23371](https://tv.um.es/canal?cod=a1b1c2d08&serie=23371)
+ El visionado de la conferencia está [aquí: https://tv.um.es/canal?cod=a1b1c2d08&serie=23371](https://tv.um.es/canal?cod=a1b1c2d08&serie=23371)
  
 [cartel](/img/posts/pviñao.jpeg)
 
