@@ -14,3 +14,5 @@ presenters:
 coordinators:
     - name: "Angel Molina García"
 ---
+
+[cartel](/img/posts/sonatascartagena.jpeg)
