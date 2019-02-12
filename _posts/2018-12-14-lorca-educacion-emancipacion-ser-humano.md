@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Una Educación para la emancipación delser humano: 5 condiciones"
+title: "Una Educación para la emancipación del ser humano: 5 condiciones"
 subtitle: "Conferencia.- Jaume Martínez Bonafé"
 background: "/img/posts/bg-lorca.jpg"
 eventdate: 2019-02-12 19:30:00 +0100
