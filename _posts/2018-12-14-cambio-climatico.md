@@ -19,4 +19,6 @@ Julia Martínez Fernández
 -Miembro de Ecologistas en Acción.    
 -Vocal del Consejo del Agua de la Demarcación del Segura.    
 -Miembro del Bureau Europeo de Medio Ambiente.  
--Junto a su investigación, participa en numerosas iniciativas de defensa del uso sostenible de los recursos hídricos y de una nueva cultura del agua.
+-Junto a su investigación, participa en numerosas iniciativas de defensa del uso sostenible de los recursos hídricos y de una nueva cultura del agua.  
+
+[cartel](/img/posts/juliacentrales.jpeg)
