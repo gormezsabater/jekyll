@@ -11,7 +11,7 @@ placeMapsUrl: https://www.google.es/maps/place/Teatro+Thuillier/@38.1090977,-1.8
 speakers:
     - name: Colectivo de Historia Social
 ---
-
+[cartel](/img/posts/lahistoriacaravaca.jpeg)
 
 ENLACES  
          https://www.facebook.com/HistoriaSocialCieza  
