@@ -15,4 +15,7 @@ coordinators:
     - name: "Angel Molina García"
 ---
 
-[cartel](/img/posts/sonatascartagena.jpeg)
+[cartel](/img/posts/sonatascartagena.jpeg)  
+
+[cartel](/img/posts/sonatascartagena.png)
+
