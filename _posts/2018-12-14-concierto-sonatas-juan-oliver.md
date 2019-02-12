@@ -17,5 +17,5 @@ coordinators:
 
 [cartel](/img/posts/sonatascartagena.jpeg)  
 
-[cartel](/img/posts/sonatascartagena.png)
+[cartel](/img/posts/astorgacartagena.png)
 
