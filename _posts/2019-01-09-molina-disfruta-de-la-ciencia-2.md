@@ -11,6 +11,8 @@ tags: "molina"
 speakers:
   - name: "Cayetano Gutiérrez Pérez"
 ---
+![cartel](/img/posts/cayetanoromeral.jpg)
+
 ![cartel](/img/posts/cayetanojpg.jpg)  
 
 Cayetano Gutiérrez Pérez es Catedrático de Física y Química, y Divulgador Científico. Entre sus obras destacan: "Fisiquotidianía, la física de la vida cotidiana” (2007), “La actuación frente al cambio climático” (2009), y “Cambio climático, el gigante que amenaza la Tierra” (2018). Es miembro de la “Asociación Española de Comunicación Científica”. Más información: https://www.cayetanogutierrez.net/sobre-mi/    
