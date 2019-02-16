@@ -10,5 +10,7 @@ category: "local"
 tags: "molina"
 ---
 
+Arte en la calle2 [aquí: https://youtu.be/yN9RmkxCJ94](https://youtu.be/yN9RmkxCJ94)  
+Arte en la calle2 [aquí: https://www.youtube.com/watch?v=qH64b_d51qQ](https://www.youtube.com/watch?v=qH64b_d51qQ)  
 ![cartel](/img/posts/1folletomolina.png)
 ![cartel](/img/posts/2folletomolina.png)
