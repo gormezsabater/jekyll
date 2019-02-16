@@ -12,7 +12,7 @@ tags: "molina"
 ---
 INVISIBLES CPEE EUSEBIO MARTÍNEZ [aquí: https://youtu.be/sAO_rCfqFss](https://youtu.be/sAO_rCfqFss)
 
- El visionado de la conferencia está [aquí: https://tv.um.es/canal?cod=a1b1c2d08&serie=23371](https://tv.um.es/canal?cod=a1b1c2d08&serie=23371)
+
 
 ![cartel](/img/posts/molinaporlasartes.jpg) .
 
