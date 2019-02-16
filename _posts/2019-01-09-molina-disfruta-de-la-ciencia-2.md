@@ -11,7 +11,7 @@ tags: "molina"
 speakers:
   - name: "Cayetano Gutiérrez Pérez"
 ---
-![cartel](/img/posts/cayetanoromeral.jpg)
+![cartel](/img/posts/cayetanoromeral.JPG)
 
 ![cartel](/img/posts/cayetanojpg.jpg)  
 
