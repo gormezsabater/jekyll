@@ -12,6 +12,7 @@ speakers:
 presenters:
     - name: "Antonio Sánchez"
 ---
+Visionado de la conferencia [aquí: https://tv.um.es/video?id=129251&cod=a1](https://tv.um.es/video?id=129251&cod=a1)  
 ![cartel](/img/posts/ginespng.png)  
 Maestro  
 
