@@ -14,6 +14,7 @@ presenters:
       bio: "Colectivo de Historia Social-Cieza"
 ---
 
+Visionado de la conferencia [aquí: https://tv.um.es/video?id=128681&cod=a1](https://tv.um.es/video?id=128681&cod=a11)  
 Fernando Hernández Sánchez  
 ![cartel](/img/posts/fernandohernandezjpeg.jpg)  
 Fernando Hernández Sánchez es un historiador español, especializado en el estudio de la Guerra Civil española y el Partido Comunista de España y profesor de la Universidad Autónoma de Madrid.
