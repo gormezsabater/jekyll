@@ -12,6 +12,6 @@ speakers:
 presenters:
     - name: "Ana Fructuoso Ros"
 ---
-![cartel](/img/posts/heikefreire.png)
+![cartel](/img/posts/heikefreire.png)  
 
 ![cartel](/img/posts/heikefreirepng.png)
