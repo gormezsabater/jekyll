@@ -13,3 +13,4 @@ speakers:
 coordinators:
     - name: "Alfonsa García"
 ---
+[cartel](/img/posts/charlaConferenciaBIOLOGIA.png)
