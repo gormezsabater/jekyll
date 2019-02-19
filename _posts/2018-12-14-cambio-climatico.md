@@ -21,4 +21,4 @@ Julia Martínez Fernández
 -Miembro del Bureau Europeo de Medio Ambiente.  
 -Junto a su investigación, participa en numerosas iniciativas de defensa del uso sostenible de los recursos hídricos y de una nueva cultura del agua.  
 
-[cartel](/img/posts/juliacentrales.jpeg)
+![cartel](/img/posts/juliacentrales.jpeg)
