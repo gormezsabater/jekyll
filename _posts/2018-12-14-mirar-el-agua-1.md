@@ -14,6 +14,8 @@ speakers:
 
 ---
 
+[cartel](/img/posts/mirarelagua.png)  
+
 La actividad consistirá en la realización de un itinerario por la ruta de las norias guiado por Juan José y la realización de algunas actividades artísticas en torno a la noria y al agua dirigidas por Sofía y Manuel.
 
 Actividad de educación ambiental y artística dirigida a todos los públicos curiosos entre 6 y 106 años.
