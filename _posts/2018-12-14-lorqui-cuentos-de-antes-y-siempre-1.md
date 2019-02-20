@@ -12,4 +12,7 @@ speakers:
     - name: "Alonso Palacios"
 ---
 
-![cartel](/img/posts/alonsolorquíjpg.jpg)
+![cartel](/img/posts/alonsolorqui.jpg)
+
+
+![cartel](/img/posts/alonsolorquijpg.jpg)
