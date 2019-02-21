@@ -13,6 +13,3 @@ speakers:
 ---
 
 ![cartel](/img/posts/alonsolorqui.jpg)  
-
-
-![cartel](/img/posts/alonsolorquijpg.jpg)
