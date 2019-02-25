@@ -11,6 +11,7 @@ tags: "moratalla"
 speakers:
     - name: "Salvador Martínez Pérez"
 ---
+![cartel](/img/posts/salvadorbenizar.jpg)  
 
 ![cartel](/img/posts/salvadorjpg.jpg)  
 
