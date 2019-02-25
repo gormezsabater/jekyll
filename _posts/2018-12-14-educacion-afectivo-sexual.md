@@ -13,3 +13,5 @@ speakers:
 presenters:
     - name: "Juana Navarro"
 ---
+
+![cartel](/img/posts/educacionasex.jpg)
