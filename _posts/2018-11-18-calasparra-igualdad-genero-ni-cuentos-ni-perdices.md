@@ -11,6 +11,8 @@ placeMapsUrl: https://www.google.es/maps/place/Colegio+P%C3%BAblico+las+Pedreras
 speakers:
     - name: Loola Pérez.
 ---
+![cartel](/img/posts/loolacalasparra.jpg)
+
 ![cartel](/img/posts/Loolajpg.jpg)  
 Biografía Loola Pérez  
 Loola Pérez (Molina de Segura, 1991). Graduada en Filosofía e Integradora Social. Es Presidenta de Mujeres Jóvenes de la Región de Murcia: 8 de marzo desde el año 2015. Fundadora y coordinadora del proyecto coeducativo Ni cuentos con perdices ni novelas rosas premiado recientemente por la Universidad Europea en los premios Jóvenes Emprendedores Sociales. En noviembre de 2018 ganó el 2º Premio de Ensayo de la Asociación Estatal de Sexología. Actualmente estudia Psicología y se encuentra finalizando el máster oficial de Sexología: educación sexual y asesoramiento sexológico en la Universidad Camilo José Cela de Madrid.  
