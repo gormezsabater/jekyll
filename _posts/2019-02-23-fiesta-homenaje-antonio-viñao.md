@@ -13,6 +13,7 @@ presenters:
     - name: "Pepe Hdez Escámez"
     
 ---
- El visionado de la conferencia está [aquí: https://tv.um.es/canal?cod=a1b1c2d08&serie=23371](https://tv.um.es/canal?cod=a1b1c2d08&serie=23371)
+Fiesta Homenaje al Prof. D. Antonio Viñao [aquí: https://youtu.be/15c7LJLbBuo](https://youtu.be/15c7LJLbBuo)
+
  
-![cartel](/img/posts/pviñao.jpeg)
+![cartel](/img/posts/cartelhomviñao.png)
