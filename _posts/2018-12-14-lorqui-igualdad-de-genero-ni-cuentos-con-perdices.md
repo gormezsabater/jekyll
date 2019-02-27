@@ -12,7 +12,7 @@ speakers:
     - name: "Loola Pérez"
 ---
 
-![cartel](/img/posts/Loolalorqui.jpg)
+![cartel](/img/posts/Loolalorqui.jpg)  
 
 ![cartel](/img/posts/Loolajpg.jpg)
 
