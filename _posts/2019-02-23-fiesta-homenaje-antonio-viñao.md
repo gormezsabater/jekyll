@@ -16,4 +16,4 @@ presenters:
 Fiesta Homenaje al Prof. D. Antonio Viñao [aquí: https://youtu.be/15c7LJLbBuo](https://youtu.be/15c7LJLbBuo)
 
  
-![cartel](/img/posts/cartelhomviñao.png)
+![cartel](/img/posts/cartelhomeviñao.png)
