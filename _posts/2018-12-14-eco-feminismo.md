@@ -12,7 +12,7 @@ speakers:
 presenters:
     - name: "Ana García"
 ---
-![cartel](/img/posts/yayoher.jpg)  
+![cartel](/img/posts/yayoher.jpeg)  
 
 ![cartel](/img/posts/yayoherreropng.png)
 CV  
