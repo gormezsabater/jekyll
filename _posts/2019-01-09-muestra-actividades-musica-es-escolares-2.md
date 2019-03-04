@@ -12,7 +12,7 @@ coordinators:
   - name: "Marcos Martínez Fernández"
 ---
 
-Visionado de la Muestra [aquí: https://www.youtube.com/watch?v=s6njZ1tFnJU&t=10s](https://www.youtube.com/watch?v=s6njZ1tFnJU&t=10s)](https://tv.um.es/canal?cod=a1b1c2d08&serie=23371)
+Visionado de la Muestra [aquí: https://www.youtube.com/watch?v=s6njZ1tFnJU&t=10s](https://www.youtube.com/watch?v=s6njZ1tFnJU&t=10s)
 
 ![cartel](/img/posts/1folletomolina.png)
 ![cartel](/img/posts/2folletomolina.png)
