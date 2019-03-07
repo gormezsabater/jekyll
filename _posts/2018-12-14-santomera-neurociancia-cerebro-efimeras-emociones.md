@@ -11,6 +11,9 @@ tags: "santomera"
 speakers:
     - name: Salvador Martínez Pérez.
 ---
+![cartel](/img/posts/salvadorsantomera.png)  
+
+
 ![cartel](/img/posts/salvadorjpg.jpg)  
 
 El cerebro y las efímeras emociones. Todo lo que sube, baja.  
