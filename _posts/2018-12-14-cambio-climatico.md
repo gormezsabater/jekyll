@@ -12,6 +12,8 @@ speakers:
 presenters:
     - name: "Angelita Trujillo"
 ---
+Visionado de la conferencia [aquí: https://tv.um.es/video?id=130061&cod=a1](https://tv.um.es/video?id=130061&cod=a1)  
+
 ![cartel](/img/posts/juliajpeg.jpg)
 Julia Martínez Fernández  
 -Directora técnica de la Fundación Nueva Cultura del Agua.    
