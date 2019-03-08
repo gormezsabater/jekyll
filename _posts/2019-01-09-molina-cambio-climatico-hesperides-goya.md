@@ -11,6 +11,10 @@ tags: "molina"
 speakers:
   - name: "Francesca Iuculano"
 ---
+Visionado de la conferencia [aquí: https://www.youtube.com/watch?v=BupXQTPN-5k](https://www.youtube.com/watch?v=BupXQTPN-5k)
+
+
+
 ![cartel](/img/posts/francescaiuculanopng.png)  
 
 Biografía:
