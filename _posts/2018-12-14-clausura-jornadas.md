@@ -10,6 +10,8 @@ category: "central"
 presenters:
     - name: "Pepe Fernández"
 ---
+![cartel](/img/posts/programaclausura.png)
+
 
 **Directora:** Virginia Martínez.
 **Repertorio:** Piano y orquesta.
