@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La Lengua de las Mariposas o ¿Tiempo Después?"
+title: "Tiempo Después"
 subtitle: "Proyección"
 background: "/img/bg-index.jpg"
 eventdate: 2019-03-13 19:00:00 +0100
@@ -12,3 +12,5 @@ speakers:
 presenters:
     - name: "Por confirmar"
 ---
+
+![cartel](/img/posts/peliculas.png)  
