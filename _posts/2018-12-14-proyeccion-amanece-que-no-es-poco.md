@@ -12,3 +12,5 @@ speakers:
 presenters:
     - name: "Por confirmar"
 ---
+
+![cartel](/img/posts/peliculas.png)  
