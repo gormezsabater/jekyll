@@ -13,5 +13,7 @@ speakers:
 presenters:
     - name: "Juana Navarro"
 ---
+Visionado de la conferencia [aquí: https://tv.um.es/video?id=131931&cod=a1](https://tv.um.es/video?id=131931&cod=a1)  
+Segunda parte [aquí: https://tv.um.es/video?id=131941&cod=a1](https://tv.um.es/video?id=131941&cod=a1)  
 
 ![cartel](/img/posts/educacionasex.jpg)
