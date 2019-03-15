@@ -12,6 +12,8 @@ speakers:
 presenters:
     - name: "Ana Fructuoso Ros"
 ---
+Visionado de la conferencia [aquí: https://tv.um.es/video?id=130371&cod=a1](https://tv.um.es/video?id=130371&cod=a1)  
+
 ![cartel](/img/posts/heikefreire.png)  
 
 ![cartel](/img/posts/heikefreirepng.png)
