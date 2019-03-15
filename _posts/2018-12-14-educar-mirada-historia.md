@@ -13,6 +13,9 @@ speakers:
 presenters:
     - name: "José Luis López Lillo"
 ---
+
+![cartel](/img/posts/pacojarauta.jpg)  
+
 FRANCISCO JARAUTA
 ![cartel](/img/posts/pacojarautajpeg.jpg)
 
