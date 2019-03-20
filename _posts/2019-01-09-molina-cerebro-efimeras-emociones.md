@@ -3,7 +3,7 @@ layout: post
 title: "El cerebro y las efímeras emociones. Todo lo que sube baja"
 subtitle: "Conferencia"
 background: "/img/posts/bg-molina.jpg"
-eventdate: 2019-03-28 20:00:00 +0100
+eventdate: 2019-03-26 20:00:00 +0100
 placeName: "Centro de Educanción Infantil nº 1.-Paseo Rosales"
 placeMapsUrl: https://www.google.com/maps/place/Escuela+de+Educaci%C3%B3n+Infantil+N%C2%BA+1/@38.0523753,-1.2133646,15z/data=!4m5!3m4!1s0x0:0xa4a6aa5b957bba25!8m2!3d38.0523753!4d-1.2133646
 category: "local"
@@ -11,6 +11,8 @@ tags: "molina"
 speakers:
   - name: "Salvador Martínez Pérez"
 ---
+![cartel](/img/posts/SALVADOR.png)  
+
 ![cartel](/img/posts/salvadorjpg.jpg)  
 
  El cerebro y las efímeras emociones. Todo lo que sube, baja.
