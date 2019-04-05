@@ -11,8 +11,9 @@ tags: "molina"
 coordinators:
   - name: "Fernando de Arce"
 ---
-
-Del 28 de marzo al 11 de abril.
+Enlace blog Teatro Villa de Molina [aquí: https://teatromolina.blogspot.com/]( https://teatromolina.blogspot.com/)  
+Visionado de la video [aquí: https://www.youtube.com/watch?v=VFvDFpYOSk8](https://www.youtube.com/watch?v=VFvDFpYOSk8)  
+Del 28 de marzo al 21 de junio.
 
 ![cartel](/img/posts/1folletomolina.png)
 ![cartel](/img/posts/2folletomolina.png)
