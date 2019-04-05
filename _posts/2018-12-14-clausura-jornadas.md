@@ -10,6 +10,7 @@ category: "central"
 presenters:
     - name: "Pepe Fernández"
 ---
+Visionado de la Clausura [aquí: https://youtu.be/Es2LmHxvYGc](https://youtu.be/Es2LmHxvYGc)  
 ![cartel](/img/posts/programaclausura.png)
 
 
