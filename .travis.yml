@@ -7,8 +7,8 @@ env:
 cache: bundler # caching bundler gem packages will speed up build
 
 before_install:
-  - gem uninstall -v '>= 2' -i $(rvm gemdir)@global -ax bundler || true
   - gem install bundler -v 1.12 
+  - gem uninstall -v '>= 2' -i $(rvm gemdir)@global -ax bundler || true
   - sudo apt-get update
   - sudo apt-get install -y pngquant
   - sudo apt-get install -y jpegoptim
