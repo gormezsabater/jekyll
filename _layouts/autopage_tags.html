@@ -9,6 +9,26 @@ pagination:
 
 {% for post in paginator.posts %}
 
+{% assign prev_i = forloop.index0 | minus: 1 %}
+{% assign prev_post = paginator.posts[prev_i] %}
+{% assign current_post_year = post.eventdate | date: "%Y" %}
+
+{% if prev_i >= 0 %}
+  {% if prev_post %}
+    {% assign prev_post_year = prev_post.eventdate | date: "%Y" %}
+    {% if prev_post_year > current_post_year %}
+      <h2 class="year-separator">{{ current_post_year }}</h2>
+      <hr>
+    {% endif %}
+  {% endif %}
+{% endif %}
+
+{% if prev_i == -1 %}
+  <hr>
+  <h2 class="year-separator">{{ current_post_year }}</h2>
+  <hr>
+{% endif %}
+
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
     <h2 class="post-title">{{ post.title }}</h2>
