@@ -3,7 +3,7 @@ layout: post
 title: "COCINANDO CUENTOS"
 subtitle: "Teatro"
 background: "/img/posts/bg-mula.jpg"
-eventdate: 2020-02-96 12:00:00 +0100
+eventdate: 2020-02-06 12:00:00 +0100
 category: "local"
 tags: "mula"
 placeName: "Teatro Lope de Vega"
