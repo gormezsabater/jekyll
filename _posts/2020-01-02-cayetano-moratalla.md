@@ -3,11 +3,11 @@ layout: post
 title: "Ciencia divertida"
 subtitle: "Taller"
 background: "/img/posts/bg-moratalla.jpg"
-eventdate: 2020-03-13 17:30:00 +0100
+eventdate: 2020-02-28 17:30:00 +0100
 category: "local"
 tags: "moratalla"
 placeName: "COLEGIO PÚBLICO JUANA RODRÍGUEZ"
-placeMapsUrl: https://www.google.com/maps/place/Colegio+Rural+Agrupado+de+El+Sabinar/@38.2060321,-2.1590951,16z/data=!4m13!1m7!3m6!1s0xd659605f51b4a09:0xfc2da46553944510!2s30441+El+Sabinar,+Murcia!3b1!8m2!3d38.2065555!4d-2.1554613!3m4!1s0xd65960f371ffe35:0x8d0755369764b5b!8m2!3d38.2067157!4d-2.1562292
+placeMapsUrl: https://www.google.com/maps/place/Colegio+P%C3%BAblico+Juana+Rodr%C3%ADguez/@38.1890847,-1.8888525,15z/data=!4m5!3m4!1s0x0:0x57951f13440e7cb0!8m2!3d38.1890847!4d-1.8888525
 speakers:
     - name: D. Cayetano Gutiérrez Pérez
 ---
