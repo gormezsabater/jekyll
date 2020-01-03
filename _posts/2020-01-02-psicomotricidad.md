@@ -3,7 +3,7 @@ layout: post
 title: "La Psicomotricidad en la Educación Infantil. Qué es la psicomotricidad y su utilidad. (Primera Sesión)"
 subtitle: "Conferencia-taller"
 background: "/img/posts/bg-caravaca.jpg"
-eventdate: 2020-02-05 20:00:00 +0100
+eventdate: 2020-02-05 17:00:00 +0100
 category: "local"
 tags: "caravaca"
 placeName: "Pabellón Juan Antonio Corbalán ( Sala de psicomotricidad)"
