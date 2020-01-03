@@ -5,7 +5,7 @@ subtitle: "Conferencia"
 background: "/img/posts/bg-calasparra.jpg"
 eventdate: 2020-03-05 19:00:00 +0100
 category: "local"
-tags: "calaparra"
+tags: "calasparra"
 placeName: "Casa de Cultura"
 placeMapsUrl:  https://www.google.com/maps/place/Biblioteca+P%C3%BAblica+Municipal+Casa+de+Cultura+Antonio+Maya/@38.2308625,-1.701915,15z/data=!4m2!3m1!1s0x0:0xf959ceaf5d23acd8?sa=X&ved=2ahUKEwid3LS18-fmAhXq6eAKHcDuCN0Q_BIwCnoECA4QCA
 speakers:
