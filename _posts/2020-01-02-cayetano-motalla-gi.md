@@ -3,7 +3,7 @@ layout: post
 title: "El Gigante que amenaza la Tierra"
 subtitle: "Taller"
 background: "/img/posts/bg-moratalla.jpg"
-eventdate: 2020-03-13 20:00:00 +0100
+eventdate: 2020-02-28 20:00:00 +0100
 category: "local"
 tags: "moratalla"
 placeName: "Casino Cultural"
