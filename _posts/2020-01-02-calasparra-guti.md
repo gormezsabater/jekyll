@@ -2,12 +2,12 @@
 layout: post
 title: "Escuchar para contar"
 subtitle: "Narración oral"
-background: "/img/posts/bg-mula.jpg"
+background: "/img/posts/bg-calasparra.jpg"
 eventdate: 2020-01-23 09:30:00 +0100
 category: "local"
 tags: "calaparra"
 placeName: "Auditorio Municipal"
-placeMapsUrl:https://www.google.com/maps/place/Auditorio+municipal+de+Calasparra/@38.2297401,-1.696866,15z/data=!4m2!3m1!1s0x0:0x66fd5515eb172e25?sa=X&ved=2ahUKEwiO8OuO8OfmAhVsC2MBHRvLD2EQ_BIwCnoECA0QCA
+placeMapsUrl: https://www.google.com/maps/place/Auditorio+municipal+de+Calasparra/@38.2297401,-1.696866,15z/data=!4m2!3m1!1s0x0:0x66fd5515eb172e25?sa=X&ved=2ahUKEwiO8OuO8OfmAhVsC2MBHRvLD2EQ_BIwCnoECA0QCA
 speakers:
     - name: JOSE LUIS GUTIERREZ GUTI
 ---
