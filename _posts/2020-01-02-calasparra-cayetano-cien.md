@@ -5,7 +5,7 @@ subtitle: "Taller"
 background: "/img/posts/bg-calasparra.jpg"
 eventdate: 2020-02-07 17:00:00 +0100
 category: "local"
-tags: "calaparra"
+tags: "calasparra"
 placeName: "Casa de la Juventud"
 placeMapsUrl:  https://www.google.com/maps/place/Casa+De+La+Juventud/@38.2322864,-1.6985095,15z/data=!4m5!3m4!1s0x0:0xd3996740e267d129!8m2!3d38.2322864!4d-1.6985095
 speakers:
