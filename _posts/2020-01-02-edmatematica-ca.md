@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fines y mediso en la Educación Matemática"
+title: "Fines y medios en la Educación Matemática"
 subtitle: "Conferencia"
 background: "/img/posts/bg-caravaca.jpg"
 eventdate: 2020-02-19 20:00:00 +0100
