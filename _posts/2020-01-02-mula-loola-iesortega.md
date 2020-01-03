@@ -3,7 +3,7 @@ layout: post
 title: "NI CUENTOS CON PERDICES NI NOVELAS ROSA"
 subtitle: "Conferencia-Taller"
 background: "/img/posts/bg-mula.jpg"
-eventdate: 2020-02-96 09:00:00 +0100
+eventdate: 2020-02-26 09:00:00 +0100
 category: "local"
 tags: "mula"
 placeName: "IES ORTEGA Y RUBIO"
