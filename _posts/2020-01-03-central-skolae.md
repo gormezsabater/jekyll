@@ -13,7 +13,7 @@ presenters:
     - name: "Coordina Dña. Francisca HermosillaJosé L. Lillo"
    
 ---
-
+![cartel](/img/posts/pilarmayo.jpg) 
 
 Pilar Mayo Falque (San Sebastián, 1960)
 Psicóloga por la Universidad Pontificia de Salamanca. Es técnica de igualdad del Ayuntamiento de Pamplona desde hace más de 20 años. En este tiempo ha ocupado diversas jefaturas en el Instituto Navarro para la Igualdad y en el Departamento de Educación y ha trabajado como técnica de organización en el Departamento de Presidencia del Gobierno de Navarra. 
