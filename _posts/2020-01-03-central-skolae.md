@@ -10,7 +10,7 @@ category: "central"
 speakers:
     - name: "Dña.Pilar Mayo Falque"
 presenters:
-    - name: "Coordina Dña. Francisca HermosillaJosé L. Lillo"
+    - name: "Coordina Dña. Francisca Hermosilla"
    
 ---
 ![cartel](/img/posts/pilarmayo.jpg) 
