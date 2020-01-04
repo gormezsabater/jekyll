@@ -9,7 +9,7 @@ placeMapsUrl: https://www.google.es/maps/place/Universidad+de+Murcia:+Campus+de+
 category: "central"
 speakers:
     - name: "Dña. Eva Mª González Barea"
-	- name: "D.Eduardo Romero Sánchez"
+    - name: "D.Eduardo Romero Sánchez"
 presenters:
     - name: "Coordina D. Ginés Gómez"
    
