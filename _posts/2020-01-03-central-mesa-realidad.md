@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Mesa redonda:  Realidad socioeducativa. Abandono escolar temprano en la Región
-de Murcia. Alternativas"
+title: "Mesa redonda   Realidad socioeducativa. Abandono escolar temprano en la Región de Murcia. Alternativas"
 subtitle: "Eva Mª González Barea Dpto. de Organización Escolar Eduardo Romero Sánchez Observatorio de Exclusión Social de la UMU"
 background: "/img/bg-index.jpg"
 eventdate: 2020-02-13 19:00:00 +0100
