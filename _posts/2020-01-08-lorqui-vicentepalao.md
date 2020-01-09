@@ -12,5 +12,6 @@ speakers:
     - name: Vicente Palao, Cantautor
     - name: Eduardo Piqueras, guitarra
 ---
-
+![cartel](/img/posts/vicentepalao.png)  
+![cartel](/img/posts/edupiqueras.png) 
 El versionista y cantautor yeclano Vicente Palao realiza un homenaje multicultural a través de la llamada "canción de autor" de todos los tiempos en nuestro entorno más cercano. Centrado en la canción protesta de afamados autores como Cohen, Paco Ibáñez, Aute, Brassens, Dylan, Carlos Cano y otros.
