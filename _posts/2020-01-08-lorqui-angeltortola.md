@@ -12,7 +12,7 @@ speakers:
     - name: Ángel Tórtola
     
 ---
-![cartel](/img/posts/angeltortola.png)   
+![cartel](/img/posts/angeltortola.jpg)   
 
 Taller expositivo con la ayuda de ejemplares de fósiles, huesos, cráneos, conchas y otros elementos naturales para los alumnos de la ESO y Bachillerato del Instituto.
 
