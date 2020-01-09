@@ -14,6 +14,6 @@ speakers:
     - name: Alonso Palacios Rozalén
     
 ---
-![cartel](/img/posts/alonso1.png)   
+![cartel](/img/posts/alonso1.jpg)   
 
 Narración oral de "cuentos de siempre"
