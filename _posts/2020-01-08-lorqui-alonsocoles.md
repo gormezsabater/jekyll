@@ -6,7 +6,7 @@ background: "/img/posts/bg-lorqui.jpg"
 eventdate: 2020-02-04 10:00:00 +0100
 category: "local"
 tags: "lorqui"
-placeName: "Colegios Públicos "Maestro Jesús García" y Dolores Escámez"
+placeName: "Colegios Públicos Maestro Jesús García y Dolores Escámez"
 
 
 
