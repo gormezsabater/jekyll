@@ -12,6 +12,6 @@ speakers:
     - name: Ángel Regino Calvo
     
 ---
-![cartel](/img/posts/angelregino.png)   
+![cartel](/img/posts/angelregino.jpg)   
 
 El profesor de Psicología Educativa nos plantea la diversidad que existen en un aula en cuanto a alumnado y como apreciar esas diferencias.
