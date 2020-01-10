@@ -14,7 +14,7 @@ presenters:
     - name: "Coordina D. José A. Ruzafa"
    
 ---
- ANTONIO VIÑAO FRAGO
+ ANTONIO VIÑAO FRAGO  
 ![cartel](/img/posts/viñao.png)  
 
 Antonio Viñao Frago es Doctor en Derecho y Colaborador Honorario del Departamento de Teoría e Historia de la Educación de la Universidad de Murcia. Ha sido miembro del Comité Ejecutivo de la International Standing Conference for the History of Education (1996-2000) y presidente de la Sociedad Española de Historia de la Educación (2001-2005), así como director del Centro de Estudios sobre la Memoria Educativa (2009-2013) y de la revista Historia y Memoria de la Educación (2014-2019).
