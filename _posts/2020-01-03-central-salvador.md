@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "La educación basada en la evidencia neuro-científica: Un reto y una necesidad"
+title: "La  relajante  ignorancia  o  la  ansiedad  inteligente: ¿vamos  a  seguir eligiendo  mal? "
 subtitle: "Salvador Martínez Pérez"
 background: "/img/bg-index.jpg"
 eventdate: 2020-01-30 19:00:00 +0100
