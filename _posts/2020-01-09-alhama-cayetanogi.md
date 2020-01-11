@@ -15,7 +15,7 @@ speakers:
     
 ---
 
-![cartel](/img/posts/cayetano.jpg)     
+![cartel](/img/posts/cayetano.png)     
 
 BREVE DESCRIPCIÓN DEL CONTENIDO DE LA ACTIVIDAD  
 El Cambio Climático o calentamiento global es el problema ambiental más importante a corto, medio y largo plazo que existe en nuestro planeta, que amenaza a las generaciones futuras, como consecuencia de mantener un estilo de vida y unos hábitos de consumo insostenibles, con graves consecuencias sociales, económicas y políticas.
