@@ -5,7 +5,7 @@ subtitle: "Conferencia"
 background: "/img/posts/bg-archena.jpg"
 eventdate: 2020-02-14 10:30 :00 +0100
 category: "local"
-tags: "molina"
+tags: "archena"
 placeName: "Casa de Cultura de Archena"
 
 
