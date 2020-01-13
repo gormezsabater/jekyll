@@ -9,8 +9,8 @@ placeMapsUrl: https://www.google.es/maps/place/Universidad+de+Murcia:+Campus+de+
 category: "central"
 speakers:
     - name: "Dña. Isabel Rubio"
-	- name: "Dña. Julia Martínez"
-	- name: "Dña. Helena Vidal"
+    - name: "Dña. Julia Martínez"
+    - name: "Dña. Helena Vidal"
 presenters:
     - name: "Coordina D. Cayetano Gutiérrez"
    

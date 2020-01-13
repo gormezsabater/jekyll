@@ -78,3 +78,17 @@
   backgroundPhoto: "/img/posts/bg-yecla.jpg"
   url: "/programa/yecla"
   
+- name: "Villanueva del Río Segura"
+  tag: "villanueva"
+  backgroundPhoto: "/img/posts/bg-villanueva.jpg"
+  url: "/programa/villanueva"
+
+- name: "Ceutí"
+  tag: "ceuti"
+  backgroundPhoto: "/img/posts/bg-ceuti.jpg"
+  url: "/programa/ceuti"
+
+- name: "Murcia"
+  tag: "murcia"
+  backgroundPhoto: "/img/posts/bg-murcia.jpg"
+  url: "/programa/murcia"
