@@ -3,7 +3,7 @@ layout: post
 title: "Disfruta la Ciencia"
 subtitle: "Taller"
 background: "/img/posts/bg-molina.jpg"
-eventdate: 2020-03-23 10:30 :00 +0100
+eventdate: 2020-03-23 10:30:00 +0100
 category: "local"
 tags: "molina"
 placeName: "CEIP Sagrado Corazón"

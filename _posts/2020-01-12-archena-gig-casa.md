@@ -3,7 +3,7 @@ layout: post
 title: "Disfruta la Ciencia"
 subtitle: "Taller"
 background: "/img/posts/bg-archena.jpg"
-eventdate: 2020-03-27 20:00 :00 +0100
+eventdate: 2020-03-27 20:00:00 +0100
 category: "local"
 tags: "archena"
 placeName: "Casa de Cultura"

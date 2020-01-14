@@ -3,7 +3,7 @@ layout: post
 title: "Cambio climático, el gigante que amenaza la Tierra"
 subtitle: "Conferencia"
 background: "/img/posts/bg-murcia.jpg"
-eventdate: 2020-02-10 10:00 :00 +0100
+eventdate: 2020-02-10 10:00:00 +0100
 category: "local"
 tags: "murcia"
 placeName: "Museo de la Ciencia y el Agua"

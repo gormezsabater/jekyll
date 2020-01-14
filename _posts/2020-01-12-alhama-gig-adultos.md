@@ -3,7 +3,7 @@ layout: post
 title: "Cambio climático, el gigante que amenaza la Tierra"
 subtitle: "Conferencia"
 background: "/img/posts/bg-alhama.jpg"
-eventdate: 2020-03-18 09:30 :00 +0100
+eventdate: 2020-03-18 09:30:00 +0100
 category: "local"
 tags: "alhama"
 placeName: "Centro de Educación de Adultos"

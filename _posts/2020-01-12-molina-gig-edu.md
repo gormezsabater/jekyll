@@ -3,7 +3,7 @@ layout: post
 title: "Cambio Climático, el gigante que amenaza la Tierra"
 subtitle: "Conferencia"
 background: "/img/posts/bg-molina.jpg"
-eventdate: 2020-02-18 10:05 :00 +0100
+eventdate: 2020-02-18 10:05:00 +0100
 category: "local"
 tags: "molina"
 placeName: "IES Eduardo Linares"

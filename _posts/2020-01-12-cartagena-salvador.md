@@ -3,7 +3,7 @@ layout: post
 title: "La educación basada en la evidencia neuro-científica: un reto y una necesidad"
 subtitle: "Conferencia"
 background: "/img/posts/bg-cartagena.jpg"
-eventdate: 2020-02-26 19:00 :00 +0100
+eventdate: 2020-02-26 19:00:00 +0100
 category: "local"
 tags: "cartagena"
 placeName: "ETSAE (Arquitectura) UPCT"

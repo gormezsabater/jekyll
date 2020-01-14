@@ -3,7 +3,7 @@ layout: post
 title: "LA ATMÓSFERA DE APRENDIZAJE Y LA PERSONALIDAD CREADORA DEL NIÑO"
 subtitle: "Curso para profesorado de primaria"
 background: "/img/posts/bg-cartagena.jpg"
-eventdate: 2020-01-29 18:00 :00 +0100
+eventdate: 2020-01-29 18:00:00 +0100
 category: "local"
 tags: "cartagena"
 placeName: "ETSAE (Arquitectura) UPCT"

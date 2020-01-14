@@ -3,7 +3,7 @@ layout: post
 title: "El Gigante que amenaza la Tierra"
 subtitle: "Conferencia"
 background: "/img/posts/bg-archena.jpg"
-eventdate: 2020-03-27 12:00 :00 +0100
+eventdate: 2020-03-27 12:00:00 +0100
 category: "local"
 tags: "archena"
 placeName: "IES Vicente Medina"
