@@ -13,7 +13,7 @@ presenters:
     - name: "Presenta D. Juan José Martínez Soler"
    
 ---
-![cartel](/img/posts/joaquinaraujo.jpg)  
+![cartel](/img/posts/joaquinaraujo.JPG)  
 JOAQUÍN ARAÚJO PONCIANO                  
 
 Su primera pasión es la hospitalidad, la que recibe, al ser atalantado por casi todo lo que mira en la Natura, y la que consigue ofrecer, tanto a los que se acercan a su hogar, como a los que le leen, escuchan o ven en cualquiera de sus actividades en los medios de comunicación. También intenta abrirse, de par en par,  para que le entren, por todos los sentidos, los aromas del  mejor huésped, la libertad. Esa que se esconde, por demasiado olvidada, donde nada puede ocultarse: al aire libre, a cielo abierto...
