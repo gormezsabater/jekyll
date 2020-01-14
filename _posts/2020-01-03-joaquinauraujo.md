@@ -20,3 +20,8 @@ Su primera pasión es la hospitalidad, la que recibe, al ser atalantado por casi
 Acampa en Joaquín Araujo la necesidad de alimentarse con las mejores dietas visuales, esas que incluyen los panoramas menos agredidos, a lo que suma lecturas incesantes, sobre todo de poesía y filosofía. Come, en un alto porcentaje lo  por él mismo cultivado. Todo ello, no lo olvidemos, son tres de los posibles estados de la belleza. 
 
 ![cartel](/img/posts/inauguracionaraujo.png)  
+
+
+Entrevista en el diario La Verdad de Murcia con motivo de su participación en las VI Jornadas.  
+
+https://www.laverdad.es/culturas/hiperurbanizacion-hiperagriculturizacion-pasar-20200114125520-nt.html#vca=fixed-btn&vso=rrss&vmc=wh&vli=Culturas  
