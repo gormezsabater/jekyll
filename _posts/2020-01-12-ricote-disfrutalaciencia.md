@@ -15,7 +15,7 @@ speakers:
     
 ---
 
-![cartel](/img/posts/cayetano.jpg)     
+![cartel](/img/posts/cayetano.png)     
 
 BREVE DESCRIPCIÓN DEL CONTENIDO DE LA ACTIVIDAD *
 Como decía el prestigioso divulgador científico Isaac Asimov “No es necesario ser un investigador para encontrar placer en la ciencia”. En este sentido, si alguien piensa que la ciencia es aburrida y monótona, comete un gran error. Por el contrario, tal y como pretendo poner de manifiesto con mis talleres “Disfrutas la Ciencia”, la ciencia permite disfrutar y divertirse aprendiendo, desarrollar la imaginación y la creatividad, y proporcionar conocimientos y estrategias útiles para nuestra vida cotidiana.
