@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cuando la oralidad llegó a la Escuela.  Homenaje a Fedrico Matín Nebrás"
+title: "Cuando la oralidad llegó a la Escuela.  Homenaje a Federico Matín Nebrás"
 subtitle: "Aurora Gil Bphorquez"
 background: "/img/bg-index.jpg"
 eventdate: 2020-01-23 19:00:00 +0100
