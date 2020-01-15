@@ -14,4 +14,4 @@ presenters:
    
 ---
 
-![cartel](/img/posts/auroragil.png)
+![cartel](/img/posts/auroramurcia.png)
