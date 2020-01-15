@@ -4,7 +4,7 @@ title: "El sistema educativo y la catástrofe climática"
 subtitle: "Conferencia a cargo de D. Joaquín Araújo Ponciano"
 background: "/img/bg-cieza.jpg"
 eventdate: 2020-01-16 20:00:00 +0100
-placeName: "Aula Fundación Cajamurcia"
+placeName: "Aula Fundación Cajamurcia de Cieza"
 placeMapsUrl: https://www.google.com/maps/place/Calle+Padre+Salmer%C3%B3n,+2,+30530+Cieza,+Murcia/@38.2382626,-1.4235758,17z/data=!3m1!4b1!4m5!3m4!1s0xd646c3c3493ef79:0x2bf132d4e5a7343d!8m2!3d38.2382626!4d-1.4213871
 category: "local"
 speakers:
