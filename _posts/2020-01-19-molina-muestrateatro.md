@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "III Muestra de Teatro escola"
-subtitle: "Molina de Segura"
+title: "III Muestra de Teatro escolar"
+subtitle: "Centros Públicos de Enseñanza Infantil y Primaria, Molina de Segura"
 background: "/img/posts/bg-molina.jpg"
 eventdate: 2020-02-28 10:00:00 +0100
 category: "local"
@@ -11,7 +11,7 @@ placeName: "Teatro Villa de Molina"
 
 
 speakers:
-    - name: Centros Públicos de Enseñanza Infantil y Primaria
+    - name: Coordina Fernando de Arce
     
 ---
 
