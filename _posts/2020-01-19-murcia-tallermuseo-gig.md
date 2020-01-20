@@ -13,7 +13,7 @@ speakers:
 
 ---
 
-[cartel](/img/posts/museocienciatalleres.png)
+http://cienciayagua.org/evento/una-educacion-para-el-s-xxi-3/?instance_id=1199
 
 CEIP Ciudad de Murcia.  
 
