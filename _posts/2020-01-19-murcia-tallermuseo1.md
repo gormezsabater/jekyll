@@ -13,7 +13,7 @@ speakers:
 
 ---
 
-[cartel](/img/posts/museocienciatalleres.png)  
+http://cienciayagua.org/evento/taller-una-educacion-para-el-s-xxi/?instance_id=1197 
 
 CEIP Andrés Baquero, 2 grupos.  de 10 a 11:30 y 11:30 a 13 h  
 Recopilación de fosiles y maquetas hechas elaboradas por Ángel Tortola.  Animales que poblaron la región en la Prehistoria.
