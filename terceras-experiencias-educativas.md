@@ -30,7 +30,7 @@ en sus múltiples ámbitos.
 - Reflexionar sobre las alternativas planteadas y debatir sobre la manera de incorporarlas en la práctica educativa de nuestros centros.
 - Establecer relaciones entre el profesorado asistente que permita colaboraciones en el futuro.
 
-![jornadas](/img/jornadasIII.png)
+
 
 # Programa
 
