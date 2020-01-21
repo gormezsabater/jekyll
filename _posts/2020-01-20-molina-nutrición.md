@@ -6,15 +6,12 @@ background: "/img/posts/bg-molina.jpg"
 eventdate: 2020-01-29 16:30:00 +0100
 category: "local"
 tags: "molina"
-placeName: "Escuela Infantil la Inmaculada,  Molina de Segura"
+placeName: "Escuela Infantil la Inmaculada-  Molina de Segura"
 
 
 
 speakers:
-    - name: Rebeca Pastor, Dietista-Nutricionista Infantil y Familiar. My Personal Food   
-Dipl. En Nutrición Humana y Dietética (colegiada nº MU00043)
-Lcda. En Ciencia y Tecnología de los Alimentos 
-Unidad de Dietética y Nutrición del Hospital de Molina
+    - name: Rebeca Pastor, Dietista-Nutricionista Infantil y Familiar. My Personal Food Dipl. En Nutrición Humana y Dietética (colegiada nº MU00043)  Lcda. En Ciencia y Tecnología de los Alimentos   Unidad de Dietética y Nutrición del Hospital de Molina
 
     
 ---
