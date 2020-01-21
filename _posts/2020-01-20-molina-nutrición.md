@@ -11,10 +11,11 @@ placeName: "Escuela Infantil la Inmaculada-  Molina de Segura"
 
 
 speakers:
-    - name: Rebeca Pastor, Dietista-Nutricionista Infantil y Familiar. My Personal Food Dipl. En Nutrición Humana y Dietética (colegiada nº MU00043)  Lcda. En Ciencia y Tecnología de los Alimentos   Unidad de Dietética y Nutrición del Hospital de Molina
-
+    - name: Rebeca Pastor, Dietista-Nutricionista Infantil y Familiar
     
 ---
+Rebeca Pastor, Dietista-Nutricionista Infantil y Familiar. My Personal Food Dipl. En Nutrición Humana y Dietética (colegiada nº MU00043)  Lcda. En Ciencia y Tecnología de los Alimentos   Unidad de Dietética y Nutrición del Hospital de Molina  
+
  Familias y profesorado de escuelas ifantiles
 DESCRIPCIÓN:
  Espectáculo Saludable para disFRUTAr de la Alimentación Infantil. 
