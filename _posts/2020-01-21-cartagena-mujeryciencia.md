@@ -13,7 +13,7 @@ speakers:
 ---
 Berta Martín-López 
 
-![cartel](/img/posts/bertamatin.jpg)  
+![cartel](/img/posts/bertamartin.jpg)  
 
 BREVE DESCRIPCIÓN DEL CONTENIDO DE LA ACTIVIDAD *
 Se trata de un encuentro entre alumnos y profesores de la UPCT, con esta investigadora, para informar de cómo funciona la investigación, sobre todo de las mujeres, en la UE.
