@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cuando la oralidad llegó a la Escuela.  Homenaje a Federico Matín Nebrás"
-subtitle: "Aurora Gil Bphorquez"
+subtitle: "Aurora Gil Bohórquez"
 background: "/img/bg-index.jpg"
 eventdate: 2020-01-23 19:00:00 +0100
 placeName: "Paraninfo de la Universidad. Campus La Merced."
