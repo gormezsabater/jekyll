@@ -2,11 +2,11 @@
 layout: post
 title: "Movilidad urbana sostenible"
 subtitle: "Taller"
-background: "/img/posts/bg-murcia.jpg"
+background: "/img/posts/bg-cartagena.jpg"
 eventdate: 2020-02-19 10:00:00 +0100
 category: "local"
-tags: "murcia"
-placeName: "CEIP Virgen del Carmen, Murcia"
+tags: "cartagena"
+placeName: "CEIP Virgen del Carmen, Cartagena"
 
 
 
