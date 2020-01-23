@@ -113,7 +113,7 @@ El curso se ha homologado como actividad de formación del profesorado con el Se
 
 * [Inscripción en el curso](https://docs.google.com/forms/d/e/1FAIpQLSf1IOVV39FW5KNWcrHQA_pY9l8nSyK-ONmciwBXhsCNM7mvLA/viewform)
 
-* [Inscripción guardería gratuita (Viernes tarde y sábado habrá guardería para niños de 3 a 12 años.)](https://docs.google.com/forms/d/e/1FAIpQLSdPeF1Twsz0ttcbA1xQIr8CtBCqLPrjTIbib2RIIl3XdqYyFA/viewform)
+* [Inscripción para atención de niños/as (Viernes tarde y sábado habrá servicio de atención para niños/as de 3 a 12 años.)](https://docs.google.com/forms/d/e/1FAIpQLSdPeF1Twsz0ttcbA1xQIr8CtBCqLPrjTIbib2RIIl3XdqYyFA/viewform)
 
 
 * [Valoración del curso por parte de los participantes](https://docs.google.com/forms/d/e/1FAIpQLSeTbTqdyAtXq1BI6Os-RX7TXJ-jj6CYIuhqPTPufESFTh7PPA/viewform)
