@@ -5,7 +5,6 @@ subtitle: "Conferencia"
 background: "/img/bg-cartagena.jpg"
 eventdate: 2020-02-07 12:45:00 +0100
 placeName: "CEIP José Mª Lapuerta, Cartagena"
-
 category: "cartagena"
 speakers:
     - name: "D. Francisco Ruiz Salmerón"
