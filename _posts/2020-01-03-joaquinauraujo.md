@@ -13,6 +13,8 @@ presenters:
     - name: "Coordina Dña. Pati López"
    
 ---
+Visionado de la conferencia [aquí: https://tv.um.es/video?id=131641&cod=a1](https://tv.um.es/videos?serie=24934)  
+
 ![cartel](/img/posts/joaquinaraujo.jpg)  
 JOAQUÍN ARAÚJO PONCIANO                  
 
