@@ -14,3 +14,5 @@ presenters:
    
 ---
  
+![cartel](/img/posts/salvadorcentral.png) 
+
