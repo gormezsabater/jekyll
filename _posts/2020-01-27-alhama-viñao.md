@@ -1,15 +1,14 @@
-
 ---
 layout: post
-title: "El Derecho de los padres sobre la educación de sus hijos y los
-derechos educativos del menor"
-subtitle: "Antonio Viñao Frago"
+title: "El Derecho de los padres sobre la educación de sus hijos y los derechos educativos del menor"
+subtitle: "Conferencia"
 background: "/img/bg-alhama.jpg"
 eventdate: 2020-02-26 19:00:00 +0100
 placeName: "Cine Velasco, Alhama de Murcia"
 placeMapsUrl: https://www.google.com/maps?q=cine+velasco+alhama+de+murcia&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjT_s_ppqbnAhUD6OAKHV9aDJIQ_AUoAnoECBQQBA
 category: "local"
 tags:  "alhama"
+
 speakers:
     - name: "D. Antonio Viñao Frago"
 presenters:
