@@ -3,7 +3,7 @@ layout: post
 title: "Disfruta la Ciencia"
 subtitle: "Taller"
 background: "/img/posts/bg-alhama.jpg"
-eventdate: 2020-03-02 09:30:00 +0100
+eventdate: 2020-03-09 09:30:00 +0100
 category: "local"
 tags: "alhama"
 placeName: "Ricardo Codorniu"
