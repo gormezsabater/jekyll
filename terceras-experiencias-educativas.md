@@ -111,7 +111,7 @@ El curso se ha homologado como actividad de formación del profesorado con el Se
 
 ## Inscripciones:	
 
-* [Inscripción en el curso:  profesorado de Ed. infantil, primaria, secundaria (certificado CPR) y alumnado de la Ftad. de Educación (certificado de asistencia por parte de la Ftad. Educación)](https://docs.google.com/forms/d/e/1FAIpQLSf1IOVV39FW5KNWcrHQA_pY9l8nSyK-ONmciwBXhsCNM7mvLA/viewform)
+* [Inscripción en el curso:  profesorado de Ed. infantil, primaria, secundaria (certificado CPR) y alumnado de la Ftad. de Educación (certificado de asistencia por parte de la Ftad. Educación al alumnado que acredite la asistencia al total de horas del curso)](https://docs.google.com/forms/d/e/1FAIpQLSf1IOVV39FW5KNWcrHQA_pY9l8nSyK-ONmciwBXhsCNM7mvLA/viewform)
 
 * [Inscripción para atención de niños/as (Viernes tarde y sábado habrá servicio de atención para niños/as de 3 a 12 años.)](https://docs.google.com/forms/d/e/1FAIpQLSdPeF1Twsz0ttcbA1xQIr8CtBCqLPrjTIbib2RIIl3XdqYyFA/viewform)
 
