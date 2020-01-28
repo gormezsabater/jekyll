@@ -3,7 +3,7 @@ layout: post
 title: "Cambio climático, el gigante que amenaza la Tierra"
 subtitle: "Taller"
 background: "/img/posts/bg-alhama.jpg"
-eventdate: 2020-03-11 13:35:00 +0100
+eventdate: 2020-03-11 10:20:00 +0100
 category: "local"
 tags: "alhama"
 placeName: "IES Miguel Hernández"
