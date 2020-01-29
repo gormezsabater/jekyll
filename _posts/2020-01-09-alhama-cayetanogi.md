@@ -3,7 +3,7 @@ layout: post
 title: "Cambio climático, el gigante que amenaza la Tierra"
 subtitle: "Conferencia"
 background: "/img/posts/bg-alhama.jpg"
-eventdate: 2020-01-30 09:20:00 +0100
+eventdate: 2020-01-30 10:10:00 +0100
 category: "local"
 tags: "alhama"
 placeName: "IES Valle de Leiva"
