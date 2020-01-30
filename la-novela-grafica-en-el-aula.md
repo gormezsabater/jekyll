@@ -101,3 +101,7 @@ Horario Lectivo: Los Centros solicitaran día y hora de visita (horario de maña
 De 10 a 13 h.
 
 Horario de tarde: Libre acceso. Los centros pueden solicitar hora de visita por la tarde. De 17 a 19 h.
+
+## Descargas:
+
+[Descarga el programa en este enlace.](/downloads/programa exp cómic.pdf)  
