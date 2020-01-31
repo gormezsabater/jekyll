@@ -11,6 +11,9 @@ placeMapsUrl:  https://www.google.com/maps/place/Biblioteca+P%C3%BAblica+Municip
 speakers:
     - name: D. Salvador Martínez Pérez
 ---
+
+![cartel](/img/posts/salvadorcalasparra.jpeg)  
+
 SALVADOR MARTÍNEZ PÉREZ  es Catedrático de Anatomía y Embriología Humana de la Universidad Miguel Hernández de Elche y director del Laboratorio de Embriología Experimental del Instituto de Neurociencias de Alicante (CSIC-UMH). Profesor del Programa de Doctorado del Instituto Pasteur desde 2005, su carrera investigadora se ha desarrollado previamente en la Universidad de Murcia, el Hospital de la Salpêtrière de París y la Universidad de California, San Francisco. Miembro de la European DANA Alliance for the Brain y de los comités científicos de la European Leucodistrophy Association y de varias revistas especializadas de biología del desarrollo y neurociencia, ha sido distinguido con el Premio Alberto Sols (2003) por su carrera científica. Es patrono de Fundown (Murcia) y Down Jerez y miembro del Comité Científico de Down España.
 
 Con un lenguaje sencillo, claro y científico, llevará al público participante en la Conferencia a conocer un poco más nuestro cerebro y su implicación en la educación de las personas.
