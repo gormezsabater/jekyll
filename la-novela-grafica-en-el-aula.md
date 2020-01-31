@@ -5,7 +5,7 @@ description: Exposición
 background: '/img/bg-index.jpg'
 ---
 
-![cartel](/img/posts/cartelexposicion.png) 
+![cartel](/img/posts/cartecomiccorreo.jpeg) 
 
 
 BIBLIOTECA REGIONAL DEL 4 AL 29 DE FEBRERO
