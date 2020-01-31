@@ -14,7 +14,7 @@ presenters:
    
 ---
  
-![cartel](/img/posts/pilargoya.jpg)   
+![cartel](/img/posts/pilargoya.JPG)   
 
 Pilar Goya Laza es Licenciada y Doctora  en Ciencias Químicas por la Universidad Complutense (UCM) y realizó una estancia postdoctoral en la Universidad de Konstanz, ALEMANIA, financiada por la Fundación Alexander Von Humboldt. Desde 2001 es  Profesora de Investigación del Consejo Superior de Investigaciones Científicas, CSIC, en el Instituto de Química Médica del que fue la Directora durante cinco  años. Sus líneas de investigación se encuadran en la química médica  y en el diseño y síntesis de nuevas entidades químicas con potencial actividad biológica.
 
