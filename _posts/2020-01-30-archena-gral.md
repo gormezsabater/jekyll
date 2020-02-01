@@ -3,6 +3,7 @@ layout: post
 title: "ARCHENA"
 subtitle: "Programa de actividades 2020"
 background: "/img/bg-archena.jpg"
+eventdate: 2020-01-30 12:00:00 +0100
 category: "local"
 tags: "archena"
 ---
