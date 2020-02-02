@@ -119,6 +119,9 @@ El curso se ha homologado como actividad de formación del profesorado con el Se
 * [Valoración del curso por parte de los participantes](https://docs.google.com/forms/d/e/1FAIpQLSeTbTqdyAtXq1BI6Os-RX7TXJ-jj6CYIuhqPTPufESFTh7PPA/viewform)
 
 
+## Listas de admitidos
+[Lista de admitidos a 1 de febrero.  Ver para modificar errores](/downloads/lista 1 febrero.pdf)
+
 ## Descargas:
 
 [Descarga el programa en este enlace.](/downloads/diptico_jornadas.pdf)  
