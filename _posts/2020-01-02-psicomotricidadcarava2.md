@@ -11,7 +11,7 @@ placeMapsUrl: https://www.google.com/maps/place/Pabell%C3%B3n+Juan+Antonio+Corba
 speakers:
     - name: Concha Lavella
 ---
-  
+  ![cartel](/img/posts/lavellacaravaca.jpeg)   
 
  Concha Lavella Clemares. Profesora de Educación Infantil
   
