@@ -120,7 +120,7 @@ El curso se ha homologado como actividad de formación del profesorado con el Se
 
 
 ## Listas de admitidos
-[Lista de admitidos a 1 de febrero.  Ver para modificar errores](/downloads/lista 1 febrero.pdf)
+[Lista de admitidos a 1 de febrero.  Ver para modificar errores](/downloads/listado 1 febrero.pdf)
 
 ## Descargas:
 
