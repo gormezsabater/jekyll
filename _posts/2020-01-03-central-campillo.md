@@ -13,3 +13,4 @@ presenters:
     - name: "Coordina D. José Luis López Lillo."
 
 ---
+![cartel](/img/posts/campillomurcia.jpeg)   
