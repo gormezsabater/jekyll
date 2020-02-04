@@ -123,6 +123,5 @@ El curso se ha homologado como actividad de formación del profesorado con el Se
 
 ## Descargas:
 
-[Descarga lista de admitidos a 1 de febrero para corregir errores.](/downloads/listado_uno_febrero.pdf)  
-
+[Descarga lista de admitidos a 1 de febrero para corregir errores.](/downloads/listado_uno_febrero.pdf)
 [Descarga el programa en este enlace.](/downloads/diptico_jornadas.pdf)  
