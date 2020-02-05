@@ -17,7 +17,7 @@ Primigenius
 
 ![cartel](/img/posts/primigenius.jpg)  
 
-Del País de los Cuentos llegan a Alhama de Murcia unos cocineros muy especiales. Su mayor deseo, guisar las más suculentas historias. Un gorro de cocinero, una cuchara que hace música, una cacerola de la que salen poemas, adivinanzas, trabalenguas y la maleta de Enriqueta que guarda los secretos de los cuentos. 
+Del País de los Cuentos llegan a Alhama de Murcia unos cocineros muy especiales. Su mayor deseo, guisar las más suculentas historias. Un gorro de cocinero, una cuchara que hace música, una cacerola de la que salen poemas, adivinanzas, trabalenguas y la maleta de Enriqueta que guarda los secretos de los cuentos.  
 
-Los mejores cuentos, como los buenos guisos siempre sales a fuego lento...
+Los mejores cuentos, como los buenos guisos siempre sales a fuego lento...  
 
