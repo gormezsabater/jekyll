@@ -14,6 +14,7 @@ speakers:
     - name: Centros Públicos de Educación Infantil, Primaria y Secundaria de Molina de Segura
     
 ---
+Visionado de un resumen de V Molina por las Artes [aquí: https://www.youtube.com/watch?v=F8lcb7FaFAE ](https://www.youtube.com/watch?v=F8lcb7FaFAE)  
 
 ![cartel](/img/posts/molinaporlasartes.png) 
 
