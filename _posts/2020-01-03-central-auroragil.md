@@ -13,5 +13,6 @@ presenters:
     - name: "Coordina D. Alonso Palacios Rozalén"
    
 ---
+Video Cuando la oralidad llegó a la escuela [aquí: https://tv.um.es/video?id=141342&cod=a1](https://tv.um.es/video?id=141342&cod=a1)  
 
 ![cartel](/img/posts/auroramurcia.png)
