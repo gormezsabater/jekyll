@@ -17,6 +17,6 @@ speakers:
 
 Entrada con invitación de los centros solicitantes:  2 sesiones, 10 y 12 h
 
-https://www.primigenius.es/cuentacuentos
+
 [Web Primigenius en este enlace: https://www.primigenius.es/cuentacuentos](https://www.primigenius.es/cuentacuentos)  
 Entrada con invitación
