@@ -15,6 +15,8 @@ speakers:
     
 ---
 ![cartel](/img/posts/expocarcel.jpg)  
+![cartel](/img/posts/progmanoexpmolina.png)  
+
 ![cartel](/img/posts/expo1.jpg)  
 ![cartel](/img/posts/expo2.jpg)  
 ![cartel](/img/posts/expo3.jpg)  
