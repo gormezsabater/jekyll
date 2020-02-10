@@ -13,7 +13,7 @@ presenters:
     - name: "Coordina D. Cayetano Gutiérrez"
    
 ---
-![cartel](/img/posts/pilargoya.png)  
+![cartel](/img/posts/panpilargoya.png)  
 
 ![cartel](/img/posts/pilargoya.JPG)   
 
