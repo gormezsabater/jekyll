@@ -125,3 +125,4 @@ El curso se ha homologado como actividad de formación del profesorado con el Se
 
 [Descarga lista de admitidos a 7 de febrero para corregir errores.](/downloads/inscripciones3.pdf)  
 [Descarga el programa en este enlace.](/downloads/diptico_jornadas.pdf)  
+[Descarga Síntesis II Jornadas de Experiencia Educativas en este enlace.](/downloads/ponencias.pdf)  
