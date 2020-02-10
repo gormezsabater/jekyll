@@ -15,7 +15,7 @@ presenters:
     - name: "Coordina D. Ginés Gómez"
    
 ---
-![cartel](/img/posts/panrealidad.png)
+![cartel](/img/posts/panrealidad1.png)
 
 
 EVA M.ª GONZÁLEZ BAREA  
