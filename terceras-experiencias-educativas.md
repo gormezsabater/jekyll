@@ -123,6 +123,6 @@ El curso se ha homologado como actividad de formación del profesorado con el Se
 
 ## Descargas:
 
-[Descarga lista de admitidos a 7 de febrero para corregir errores.](/downloads/inscripciones3.pdf)  
+[Descarga lista de admitidos a 10 de febrero para corregir errores.](/downloads/inscritos10.pdf)  
 [Descarga el programa en este enlace.](/downloads/diptico_jornadas.pdf)  
 [Descarga la síntesis de las ponencias del curso Experiencias Educativas e Innovación III.](/downloads/sintesisponencias.pdf)  
