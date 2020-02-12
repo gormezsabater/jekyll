@@ -3,7 +3,7 @@ layout: post
 title: "Ni cuentos con perdices ni novelas rosa"
 subtitle: "Taller"
 background: "/img/posts/bg-molina.jpg"
-eventdate: 2020-02-18 09:10:00 +0100
+eventdate: 2020-02-19 09:10:00 +0100
 category: "local"
 tags: "molina"
 placeName: "IES Eduardo Linares Lumeras"
