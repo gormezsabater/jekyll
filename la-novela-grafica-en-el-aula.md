@@ -103,6 +103,6 @@ De 10 a 13 h.
 Horario de tarde: Libre acceso. Los centros pueden solicitar hora de visita por la tarde. De 17 a 19 h.
 
 ## Descargas:
-[Descarga el programa en este enlace.](/downloads/programa exp cómic.pdf)  
+[Descarga el programa en este enlace.](/downloads/programaexpcomic.pdf)  
 
 [Descarga power point de visita virtual en este enlace.](/downloads/exposicionenimagenes.pdf)  
