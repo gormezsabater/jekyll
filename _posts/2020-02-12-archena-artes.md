@@ -9,4 +9,4 @@ tags: "archena".
 placeName: "Auditorio."
 ---
 
-![cartel](/img/posts/programaarchena1.png)  
+![cartel](/img/posts/programaarchena1.jpeg)  
