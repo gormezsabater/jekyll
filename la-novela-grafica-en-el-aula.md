@@ -104,4 +104,4 @@ Horario de tarde: Libre acceso. Los centros pueden solicitar hora de visita por 
 
 ## Descargas:
 
-[Descarga el programa en este enlace.](/downloads/programa exp cómic.pdf)  
+[Descarga power point de visita virtual en este enlace.](/downloads/EXPOSICIÓN LA NOVELA GRÁFICA EN EL AULA 2020 Biblioteca Regional.pdf)  
