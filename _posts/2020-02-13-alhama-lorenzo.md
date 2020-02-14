@@ -14,7 +14,7 @@ speakers:
    
 ---
 Lorenzo J Baño Hernández  
-![cartel](/img/posts/lorenzo.jpeg)  
+![cartel](/img/posts/lorenzo.jpg)  
 BREVE DESCRIPCIÓN DEL CONTENIDO DE LA ACTIVIDAD 
 Relizaremos una reflexión en comunidad sobre una obre de arte. Para ello nos acercaremos a un cuadro, de un modo muy diferente a como lo haríamos al visitar un museo. Plantearemos una aproximación filosófica, sustentada en una doble perspectiva:
    A) Afinación perceptiva: permitir que todos los sentidos se expresen.
