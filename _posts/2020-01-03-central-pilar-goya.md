@@ -13,6 +13,8 @@ presenters:
     - name: "Coordina D. Cayetano Gutiérrez"
    
 ---
+Visionado de la conferencia [aquí: https://tv.um.es/video?id=141373](https://tv.um.es/video?id=141373)  
+
 ![cartel](/img/posts/panpilargoya.png)  
 
 ![cartel](/img/posts/pilargoya.JPG)   
