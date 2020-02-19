@@ -13,5 +13,6 @@ presenters:
     - name: "Coordina D. Juan J. Martínez"
    
 ---
+ ![cartel](/img/posts/anavalenciamurcia.png)  
  
 ![cartel](/img/posts/anavalencia2.png)  
