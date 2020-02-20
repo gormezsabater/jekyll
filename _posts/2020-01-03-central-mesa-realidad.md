@@ -15,6 +15,8 @@ presenters:
     - name: "Coordina D. Ginés Gómez"
    
 ---
+Video Mesa Realidad socioeducativa en la Región de Murcia:  Abandono escolar temprano en la Región de Murcia.  Alternativas [aquí: https://tv.um.es/usuario.videos?categoria=a1b1c2d25e1&serie=24978](https://tv.um.es/usuario.videos?categoria=a1b1c2d25e1&serie=24978)  
+
 ![cartel](/img/posts/panrealidad1.png)  
 
 
