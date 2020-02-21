@@ -14,6 +14,8 @@ presenters:
     - name: "Coordina D. José A. Ruzafa"
    
 ---
+![cartel](/img/posts/antonioviñaomur.png)  
+
  ANTONIO VIÑAO FRAGO  
 ![cartel](/img/posts/viñao.png)  
 
