@@ -13,6 +13,8 @@ presenters:
     - name: "Coordina D. Juan J. Martínez"
    
 ---
+Video Mercantilización difusa de la educación:  máquinas y gurús [aquí:   https://tv.um.es/video?id=141417](  https://tv.um.es/video?id=141417)  
+
 
 ![cartel](/img/posts/anavalenciamurcia.png)  
  
