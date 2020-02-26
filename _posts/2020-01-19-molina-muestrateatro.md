@@ -14,8 +14,10 @@ speakers:
     - name: Coordina Fernando de Arce
     
 ---
-
 La actividad se desarrollará en los días:  
   
-12, 13,  y 14 de marzo:  En dos sesione matinales:  10 y 12 h.  
+12, 13, 14 y 15 de mayo:  En dos sesione matinales:  10 y 12 h.  
 Entrada con invitación
+
+![cartel](/img/posts/teatro-fechas-obras.jpeg)  
+
