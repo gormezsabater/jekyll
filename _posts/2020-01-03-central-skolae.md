@@ -13,7 +13,7 @@ presenters:
     - name: "Coordina Dña. Francisca Hermosilla"
    
 ---
-![cartel](/img/posts/skolaemurcia.jpeg) 
+![cartel](/img/posts/skolaemurcia.jpg) 
 
 ![cartel](/img/posts/pilarmayo.jpg) 
 
