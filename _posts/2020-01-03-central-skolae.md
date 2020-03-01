@@ -13,6 +13,8 @@ presenters:
     - name: "Coordina Dña. Francisca Hermosilla"
    
 ---
+![cartel](/img/posts/skolaemurcia.jpeg) 
+
 ![cartel](/img/posts/pilarmayo.jpg) 
 
 Pilar Mayo Falque (San Sebastián, 1960)
