@@ -14,3 +14,4 @@ presenters:
    
 ---
  
+![cartel](/img/posts/vicentemurcia.jpg) 
