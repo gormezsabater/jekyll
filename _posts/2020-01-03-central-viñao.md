@@ -14,6 +14,8 @@ presenters:
     - name: "Coordina D. José A. Ruzafa"
    
 ---
+Visionado de la conferencia [aquí: https://tv.um.es/video?id=141442](https://tv.um.es/video?id=141442)
+
 ![cartel](/img/posts/antonioviñaomur.png)  
 
  ANTONIO VIÑAO FRAGO  
