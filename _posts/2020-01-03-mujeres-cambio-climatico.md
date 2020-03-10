@@ -15,3 +15,5 @@ presenters:
     - name: "Coordina D. Cayetano Gutiérrez"
    
 ---
+
+![cartel](/img/posts/docedemarzo.png)  
