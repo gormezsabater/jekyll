@@ -11,6 +11,6 @@ placeMapsUrl: https://www.google.com/maps/place/Colegio+Rural+Agrupado+de+El+Sab
 speakers:
     - name: D. Cayetano Gutiérrez Pérez
 ---
-  
+  ![cartel](/img/posts/cayetanobenizar.jpeg)
 
  Don Cayetano Gutierrez Pérez, Licenciado en Ciencias Químicas, por la Universidad de Murcia, Catedrático de Física y Química, Divulgador Científico freelance, Escritor y Conferenciante. A lo largo de su dilatada carrera docente, ha desempeñado cargos de Director, Jefe de Estudios, Jefe de Departamento, Profesor colaborador de la Universidad de Murcia…Tiene, entre otros muchos trabajos,  16 publicaciones didácticas, en las que se introducen importantes y variadas innovaciones educativas, y ha publicado 58 artículos, en diferentes revistas científicas. 
