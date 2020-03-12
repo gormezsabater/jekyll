@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Concierto de Clausura VI Jornadas. Auditorio Víctor Villegas"
-subtitle: "Banda de Música “ Las Musas” de Guadalupe-Murcia"
+subtitle: "SUSPENDIDO HASTA NUEVA FECHA"
 background: "/img/bg-index.jpg"
 eventdate: 2020-03-26 19:00:00 +0100
 placeName: "Auditorio Victor Villegas"
