@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mesa redonda: Las Mujeres frente al cambio climático en la R. de Murcia"
-subtitle: "Isabel Rubio, Julia Martínez y Helena Vidal"
+subtitle: "SUSPENDIDA HASTA NUEVA FECHA"
 background: "/img/bg-index.jpg"
 eventdate: 2020-03-12 19:00:00 +0100
 placeName: "Hemiciclo Ftad. de Letras.  Campus de la Merced"
