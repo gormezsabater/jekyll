@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ciencia divertida para todas las edades"
-subtitle: "Conferencia"
+subtitle: "CANCELADA HASTA NUEVO AVISO"
 background: "/img/posts/bg-moratalla.jpg"
 eventdate: 2020-03-13 12:00:00 +0100
 category: "local"
