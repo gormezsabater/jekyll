@@ -5,7 +5,7 @@ description: Comisión Organizadora Jornadas Una Educación para el Siglo XXI
 background: '/img/bg-about.jpg'
 ---
 
-Estas son las VI Jornadas que organizamos. La **EDUCACIÓN** es un fenómeno
+Estas son las VII Jornadas que organizamos. La **EDUCACIÓN** es un fenómeno
 complejo y multidisciplinar. Los cambios y novedades que han tenido lugar en las
 CIENCIAS y las ARTES en las últimas décadas, están influyendo en el desarrollo de la
 educación del siglo XXI y nos abren nuevos caminos y perspectivas.
@@ -53,7 +53,7 @@ cambio de modelo educativo, es necesario tener en cuenta las necesidades, propue
 experiencias del alumnado, profesorado y de las familias. Para convertirla en el modelo de
 escuela pública que el siglo XXI necesita urge de más recursos (al menos el 7% PIB).
 
-En estas VI JORNADAS “UNA EDUCACIÓN PARA EL SIGLO XXI. MIRADAS
+En estas VII JORNADAS “UNA EDUCACIÓN PARA EL SIGLO XXI. MIRADAS
 DESDE LAS CIENCIAS Y LAS ARTES”, presentamos un Ciclo de Conferencias y Mesa
 Redondas, Talleres y II Jornadas de Experiencias Educativas, en las que se abordarán
 cuestiones y problemas actuales en el ámbito de la educación.
@@ -64,7 +64,7 @@ ampliar la audiencia de las Jornadas, así como la implicación en las mismas de
 colectivos y organizaciones sociales, asociaciones culturales y vecinales, centros docentes y
 profesorado, fundaciones, empresas y entidades públicas.
 
-## Entidades Colaboradoras de las VI JORNADAS 2020
+## Entidades Colaboradoras de las VII JORNADAS 2020
 
 
 #### Entidades Organizadoras:
