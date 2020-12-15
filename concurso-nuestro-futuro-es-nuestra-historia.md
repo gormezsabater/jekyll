@@ -18,4 +18,6 @@ Democracia” para las Jornadas de Educación de 2022.
 
 ![cartel](/img/concurso-historia.jpg) 
 
-**Puedes encontrar las bases del concurso toda la información necesaria para participar [aquí](/downloads/concurso-nuestro-futuro.pdf).**
+**Puedes encontrar las bases del concurso toda la información necesaria para participar [aquí](/downloads/concurso-nuestro-futuro.pdf).**  
+
+I Concurso "Nuestro Futuro es nuesta Historia" [Video](https://www.youtube.com/watch?v=YR95FAF5pDI)  
