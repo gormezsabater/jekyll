@@ -1,3 +1,3 @@
 ---
-redirect_to: https://tv.um.es/videos?search=%20Jornadas%20Una%20educaci%C3%B3n%20para%20el%20siglo%20XXI%20&page=0
+redirect_to: https://www.youtube.com/channel/UCv8aopt16nz1wk43FGCeHcA
 ---
