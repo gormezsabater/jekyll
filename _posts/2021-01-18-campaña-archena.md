@@ -2,7 +2,7 @@
 layout: post
 title: "VII Jornadas Una Educación para el Siglo XXI. Miradas desde las Ciencias y las Artes"
 
-background: "/img/posts/bg-alhama.jpg"
+background: "/img/posts/bg-archena.jpg"
 eventdate: 2021-01-18 19:00:00 +0100
 placeName: 
 
