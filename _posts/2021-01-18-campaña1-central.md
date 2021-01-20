@@ -9,4 +9,5 @@ placeName: "Formato digital"
 category: "central"
 
 --- 
+Formato digital.  Síguenos en las redes.  Conferencia inaugural, 4 de febrero.  
 ![cartel](/img/posts/1campañapub.png)
