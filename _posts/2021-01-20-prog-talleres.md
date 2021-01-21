@@ -3,7 +3,7 @@ layout: post
 title: "PROGRAMA DE TALLERES"
 subtitle: "Distintas ubicaciones"
 background: "/img/bg-index.jpg"
-eventdate: 2020-10-04 00:00:00 +0100
+eventdate: 2021-10-04 00:00:00 +0100
 
 
 category: "central"
