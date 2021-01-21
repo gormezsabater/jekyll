@@ -14,8 +14,8 @@ category: "central"
 ## Puedes participar como asistente usando este enlace:  [Conferencia web] (https://educacionsiglo21.es/webinar)  
 ## Puedes visualizar las conferencias en directo a traves de Youtube:  [Canal Youtube educacionsiglo21] (https://educacionsiglo21.es/online)
 
-![cartel](/img/posts/progcen1.png)
-![cartel](/img/posts/progcen2.png)
-![cartel](/img/posts/progcen3.png)
-![cartel](/img/posts/progcen4.png)
-![cartel](/img/posts/progcen5.png)
+![cartel](/img/posts/progcen1.jpg)
+![cartel](/img/posts/progcen2.jpg)
+![cartel](/img/posts/progcen3.jpg)
+![cartel](/img/posts/progcen4.jpg)
+![cartel](/img/posts/progcen5.jpg)
